@@ -3,74 +3,74 @@
   "blockchain": {
     "arbitrum": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/arbitrum/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/arbitrum/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/arbitrum/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/arbitrum/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/arbitrum/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/arbitrum/dapplist.json"
       }
     },
     "avalanche": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/avalanche/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/avalanche/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/avalanche/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/avalanche/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/avalanche/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/avalanche/dapplist.json"
       }
     },
     "base": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/base/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/base/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/base/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/base/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/base/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/base/dapplist.json"
       }
     },
     "ethereum": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/ethereum/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/ethereum/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/ethereum/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/ethereum/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/ethereum/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/ethereum/dapplist.json"
       }
     },
     "fantom": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/fantom/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/fantom/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/fantom/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/fantom/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/fantom/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/fantom/dapplist.json"
       }
     },
     "optimism": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/optimism/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/optimism/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/optimism/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/optimism/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/optimism/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/optimism/dapplist.json"
       }
     },
     "polygon": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/polygon/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/polygon/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/polygon/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/polygon/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/polygon/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/polygon/dapplist.json"
       }
     },
     "smartchain": {
       "info": {
-        "logo": "https://dapp-assets.chipay.app/blockchain/smartchain/logo.png",
-        "summary": "https://dapp-lists.chipay.app/blockchain/smartchain/info.json"
+        "logo": "https://dapp-assets.getcosine.app/blockchain/smartchain/logo.png",
+        "summary": "https://dapp-lists.getcosine.app/blockchain/smartchain/info.json"
       },
       "dapplist": {
-        "main": "https://dapp-lists.chipay.app/blockchain/smartchain/dapplist.json"
+        "main": "https://dapp-lists.getcosine.app/blockchain/smartchain/dapplist.json"
       }
     }
   }

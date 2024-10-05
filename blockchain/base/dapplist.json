@@ -1,6 +1,6 @@
 [
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mes-protocol.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mes-protocol.png",
     "name": "Mes Protocol",
     "category": "DeFi",
     "description": "MES Protocol aims to tackle the liquidity fragmentation problem on L2s by building a liquidity layer across popular rollups, so users can trade any tokens across any chains.",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/layer3.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/layer3.jpeg",
     "name": "Layer3",
     "category": "Tooling",
     "description": "Discover the world of crypto like never before. Our interactive Quests make learning and exploring crypto fun, engaging, and rewarding. 🟨",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/jumper-exchange.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/jumper-exchange.jpeg",
     "name": "Jumper Exchange",
     "category": "DeFi",
     "description": "Swap any token. From here to anywhere. Jumper will find you a route and get you there. Powered by Li.Fi ",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/layerzero.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/layerzero.jpeg",
     "name": "LayerZero",
     "category": "DeFi",
     "description": "Layerzero is a user application (UA) configurable on-chain endpoint that runs a uln. Layerzero relies on two parties to transfer messages between on-chain endpoints: the oracle and the relayer.\n\nWhen a UA sends a message from chain A to chain B, the message is routed through the endpoint on chain A. The endpoint then notifies the UA specified Oracle and Relayer of the message and it's destination chain. The Oracle forwards the block header to the endpoint on chain B and the Relayer then submits the transaction proof.\n\nThe proof is validated on the destination chain and the message is forwarded to the destination address.",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/light.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/light.png",
     "name": "Light",
     "category": "Tooling",
     "description": "EVM chain abstraction protocol unifying all chains as one.",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bebop.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bebop.png",
     "name": "Bebop",
     "category": "DeFi",
     "description": "Bebop is a suite of decentralized trading products that ensures seamless and efficient crypto trading for everyone. It includes a web3 trading app along with API and SDK that boast powerful and performant tools for any protocol, dApp or DAO trade execution, as well as for liquidity providers and solvers.\n\nBebop executes trades for any tokens, in any size finding the best route for all your trades.\n\nWith Bebop, anyone can trade one token for a portfolio of tokens or several tokens for one. Bebop also offers no slippage or hidden fees which means that traders get exactly the price they see. \n\nBebop is integrated with the Ethereum, Arbitrum, and Polygon networks. More integrations are coming soon.\n\nBebop was born and incubated at Wintermute and is being built by veteran DeFi traders, developers, self-proclaimed “degens”, and recruits from traditional finance.\n",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/boost.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/boost.jpeg",
     "name": "Boost",
     "category": "Infrastructure",
     "description": "Programatically distribute tokens for onchain actions and incentivize transactions",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/intract.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/intract.jpeg",
     "name": "Intract",
     "category": "Others",
     "description": "Intract is the best web3 questing platform, seamlessly linking verified on-chain users with the web3 communities and projects they seek. It prioritises matching quality projects with its users, while ensuring these projects gain access to engaged and informed participants through Quests.",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/degen.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/degen.jpeg",
     "name": "Degen ",
     "category": "Social",
     "description": "Degen, an ERC-20 token launched in January 2024, has reshaped the Farcaster ecosystem by enabling Casters to reward others with DEGEN for posting quality content. Our points system recognizes unique posts and comments, effectively bridging the gap between online contributions and real-world value",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/robin-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/robin-protocol.jpeg",
     "name": "Robin Protocol",
     "category": "DeFi",
     "description": "Innovative solution for recovering tokens and claiming airdrops from compromised EVM wallets",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/allium.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/allium.jpeg",
     "name": "Allium",
     "category": "Tooling",
     "description": "Accurate, Fast, Simple blockchain data.",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/rehide.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/rehide.png",
     "name": "Rehide",
     "category": "NFTs",
     "description": "Rehide is a pioneering, non-custodial password storage manager offering zero-knowledge encryption. It enables users to encrypt their confidential information using their web3 wallet and securely store it as confidential NFTs in their personal vault.",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/hyperlane.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/hyperlane.jpeg",
     "name": "Hyperlane",
     "category": "Bridges",
     "description": "Hyperlane is the first Permissionless Interoperability layer built to connect the modular ecosystem, enabling anyone to connect any blockchain or rollup, enabling seamless liquidity and Interchain applications.\n",
@@ -156,7 +156,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/subsquid.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/subsquid.jpeg",
     "name": "Subsquid",
     "category": "Infrastructure",
     "description": "A peer-to-peer network to batch query and aggregate terabytes of on-chain and off-chain data in a ridiculously efficient way.",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/seamless.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/seamless.jpeg",
     "name": "Seamless",
     "category": "DeFi",
     "description": "Seamless Protocol is the first native, decentralized, non-custodial lending and borrowing protocol on the Base network. In the first month of being live, it has grown to be the largest native liquidity market (Top 20 TVL on Base, according to DefiLlama), enabling users to supply and borrow USDbC, ETH, and cbETH (with more assets underway). \n\nSeamless enables users to engage in a new form of peer-to-peer borrowing/lending—Integrated Liquidity Markets (or ILMs, for short)—which are isolated, smart contract-to-smart contract markets for undercollateralized, yet still permissionless, borrowing. \n\nSeamless Protocol is a community-governed initiative and no funds were raised.\n\nTypes of Users\n\nLiquidity Suppliers may earn fees for providing liquidity to be borrowed. \n\nLiquidity Borrowers seek to borrow from the liquidity pools and are required to pay fees, as well as lock collateral, in order to be eligible to borrow.",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/skip.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/skip.jpeg",
     "name": "Skip",
     "category": "Infrastructure",
     "description": "Skip Protocol is the best-in-class infrastructure for Sovereign Blockchains. It helps sovereign blockchain protocols supercharge their user experience, interoperability, and value capture with its vertically integrated product suite.",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/tea.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/tea.jpeg",
     "name": "Tea",
     "category": "DeFi",
     "description": "Join the OSS revolution and stake to OSS projects registered on tea. You earn rewards based on the performance of the project.",
@@ -204,7 +204,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/layerswap.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/layerswap.jpeg",
     "name": "Layerswap",
     "category": "DeFi",
     "description": "Fast and reliable crypto transfers across networks.",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cat-town.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cat-town.jpeg",
     "name": "Cat Town",
     "category": "DeFi",
     "description": "Welcome to Cat Town! A cozy onchain DeFi game | Built with love on base Inspired by Stardew Valley, Animal Crossing and Diablo 2",
@@ -228,7 +228,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/chainlyze.ai.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/chainlyze.ai.jpeg",
     "name": "Chainlyze.ai",
     "category": "Tooling",
     "description": "Chainlyze is a blockchain analytics platform that provides advanced insights and real-time data analysis to help businesses and individuals navigate the complexities of this market. Empowering users to make informed decisions, optimize their strategies, and leverage blockchain data effectively. \n",
@@ -240,7 +240,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/nansen.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/nansen.jpeg",
     "name": "Nansen",
     "category": "Tooling",
     "description": "Nansen is a blockchain analytics platform that enriches on-chain data with millions of wallet labels. Crypto investors use Nansen to discover opportunities, perform due diligence and defend their portfolios with our real-time dashboards and alerts.",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/notum.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/notum.png",
     "name": "Notum",
     "category": "DeFi",
     "description": "DeFi investment hub: trusted yields, one-click investing and unified monitoring.",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/firefly.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/firefly.jpeg",
     "name": "Firefly",
     "category": "Social",
     "description": "Firefly is a Web3 social aggregator app from Mask Network. It consolidates your social media interactions across platforms like Twitter, Lens, Farcaster, and more into one streamlined feed. ",
@@ -276,7 +276,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/drpc.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/drpc.jpeg",
     "name": "dRPC",
     "category": "Others",
     "description": "dRPC is a decentralized RPC protocol that enables secure and efficient access to a distributed network of blockchain nodes. It utilizes decentralized technology (Dshake, Dproxy) to ensure seamless communication between different nodes, providing resistance to common network vulnerabilities.",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/superboard.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/superboard.jpeg",
     "name": "Superboard",
     "category": "Social",
     "description": "The Easiest Way to Go Onchain. Explore Web3 with Quests, Discover new apps and become Onchain Citizen!",
@@ -300,7 +300,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/certik.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/certik.jpeg",
     "name": "Certik",
     "category": "DeFi",
     "description": "CertiK is leading the cybersecurity space with the use of formal verification technology on smart contracts. It is considered to be one of the leading companies in blockchain security. CertiK aims to secure the ecosystem from hackers and build a reliable blockchain ecosystem.",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/metaverse-design.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/metaverse-design.png",
     "name": "metaverse design",
     "category": "Metaverse",
     "description": "metaverse design studio",
@@ -324,7 +324,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/ddocs.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ddocs.png",
     "name": "dDocs",
     "category": "Social",
     "description": "Privacy enhancing collaboration documents. Peer-to-peer, end-to-end encrypted, and decentralized. Available on both mobile & desktop. No account required.",
@@ -336,7 +336,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/flooz.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/flooz.png",
     "name": "Flooz",
     "category": "DeFi",
     "description": "Flooz is a blockchain analytics platform that helps you invest with confidence. We empower you to discover opportunities, perform due diligence and instantly trade any digital asset, track any portfolio with real-time data and alerts.\nIn the emerging world of cryptocurrency, Flooz has distinguished itself as a leading innovator in market analytics and trading. With a user base comprising over 75,000 verified traders and managing an impressive $165 million in trading volume, the platform has solidified its standing in the decentralized exchange arena, particularly among alt-coin enthusiasts.",
@@ -348,7 +348,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/noves.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/noves.png",
     "name": "Noves",
     "category": "DeFi",
     "description": "The metalayer for blockchain data",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cur8.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cur8.jpeg",
     "name": "Cur8",
     "category": "Marketplace",
     "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
@@ -372,7 +372,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/plena---crypto-super-app.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/plena---crypto-super-app.jpeg",
     "name": "Plena - Crypto Super App",
     "category": "DeFi",
     "description": "Invest in 100,000+ Cryptocurrencies: Send, Receive, Swap and Bridge Your Assets in a Single Tap With The First Crypto SuperApp powered by Account Abstraction.",
@@ -384,7 +384,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kelp-dao.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kelp-dao.jpeg",
     "name": "Kelp DAO",
     "category": "DeFi",
     "description": "Kelp DAO was founded by Amitej G and Dheeraj B, who have previously founded Stader Labs, a multichain liquid staking platform with $350M+ in TVL. The team is focused on building Liquid Restaking Solutions for public blockchain networks. \n\nThe Kelp DAO team is currently building an LRT solution, rsETH, on EigenLayer for Ethereum.",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/retrobridge.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/retrobridge.png",
     "name": "Retrobridge",
     "category": "DeFi",
     "description": "RetroBridge is a robust multichain ecosystem and gateway to seamless connectivity across various EVM and non-EVM chains, providing solution for all interactions within a single app",
@@ -408,7 +408,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/jam.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/jam.png",
     "name": "Jam",
     "category": "Social",
     "description": " the first Web3 native “Friend Tech” app based on Farcaster and LensProtocol",
@@ -420,7 +420,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/supra.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/supra.png",
     "name": "Supra",
     "category": "Infrastructure",
     "description": "Supra is building a low-latency interoperability infrastructure to provide Web3 capabilities that traditional blockchain designs lack. Supra, as a vertically integrated IntraLayer, enables a shared security paradigm across a variety of oracle services. This includes securing external data on-chain, cross-chain consensus via their bridgeless HyperNova, automation, VRF, and more.\n\nAfter thousands of hours of R&D and simulations, Supra’s technical breakthroughs are solving the Oracle Dilemma and optimizing network performance across the board in terms of security, throughput, time to finality, composability, and programmability. Supra has taken an academic approach to development, which has been an integral part of the organization’s commitment to advancing Web3 performance and security. This is characterized by a commitment to deep research, transparency, and going through a rigorous peer-review process in every design and product released.\n\nLed by Dr. Aniket Kate, famous for inventing KZK Polynomial Commitments, Supra’s protocols have been accepted to top academic journals, placing it as the state-of-the-art for Oracle Protocols as well as their VRF (Verifiable Random Function services).\n\nSupraOracles price feeds are live on 40+ blockchains. Supra is publishing 1.2M data points on Sui every day.",
@@ -432,7 +432,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/onthis.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/onthis.png",
     "name": "Onthis",
     "category": "DeFi",
     "description": "No-code tool for building onchain.",
@@ -444,7 +444,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/ibc.fun.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ibc.fun.png",
     "name": "ibc.fun",
     "category": "DeFi",
     "description": "Cross-chain transfers and swaps on any Cosmos chain.",
@@ -452,7 +452,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/astaria.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/astaria.jpeg",
     "name": "Astaria",
     "category": "DeFi",
     "description": "Astaria is an oracle-less, intent-based, fixed-rate lending protocol supporting unlimited loan durations for any asset.",
@@ -464,7 +464,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/daylight.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/daylight.jpeg",
     "name": "Daylight",
     "category": "Tooling",
     "description": "Discover your wallet address’s abilities: mints, airdrops, unlocks, votes, and more. Our transaction recommendation API helps apps, protocols, and creators grow transactions and revenue.",
@@ -476,7 +476,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/shellboxes.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/shellboxes.png",
     "name": "ShellBoxes",
     "category": "Tooling",
     "description": "ShellBoxes is the leading blockchain development and security auditing firm. Having worked with renowned projects in the space across EVM compatible chains,Solana and Algorand, ShellBoxes is innovating for a secure, more decentralized future. ",
@@ -488,7 +488,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/interswap.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/interswap.png",
     "name": "InterSwap",
     "category": "DeFi",
     "description": "InterSwap is the first fully composable liquidity unification layer (Omnichain AMM) on Axelar\n\nIt aims to unify the liquidity spread across chains & dApps, eliminate associated risks, boost capital utilization & efficiency, and provide a seamless user experience. It's a fresh approach to the legacy issues in cross-chain ecosystems filled with sub-optimal existing solutions viz. bridges, CEXes, aggregator, and other solutions that come with their limitations and risks",
@@ -500,7 +500,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/alfafrens.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/alfafrens.jpeg",
     "name": "AlfaFrens",
     "category": "Social",
     "description": "AlfaFrens is a SocialFi app on Farcaster for gated alfa chat subscriptions powered by Superfluid and $DEGEN on Base.",
@@ -512,7 +512,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/w3.email.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/w3.email.png",
     "name": "W3.email",
     "category": "Infrastructure",
     "description": "W3email represents the future of email services. It allows you to read and respond to blockchain-based emails sent to you in a decentralized manner across multiple networks.",
@@ -524,7 +524,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/payflow.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/payflow.png",
     "name": "Payflow",
     "category": "DeFi",
     "description": "On-chain social payments ecosystem on a mission to solve payment fragmentation across a common social layer shared by different apps. Social layer can be farcaster, lens, ens and other social data which goes on-chain.",
@@ -536,7 +536,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/amet-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/amet-finance.jpeg",
     "name": "Amet Finance",
     "category": "DeFi",
     "description": "Amet Finance is a decentralized finance platform specializing in on-chain bonds, allowing users to issue, manage, and trade bonds in a secure and efficient blockchain environment.",
@@ -548,7 +548,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/rollspace.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/rollspace.png",
     "name": "Rollspace",
     "category": "Games",
     "description": "Rollspace is crypto gamefi project built on Blast L2, where you can Play and Earn (ETH) with crypto PVP games. Connect your web3 crypto wallet and start playing multiplayer crypto games against other crypto users and earn your opponents ETH today!",
@@ -560,7 +560,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/opencover.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/opencover.png",
     "name": "OpenCover",
     "category": "DeFi",
     "description": "OpenCover makes it easy and affordable to protect your portfolio against leading onchain risks. Get cover against smart contract hacks, oracle failures and more from vetted onchain underwriters.",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/delegate.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/delegate.png",
     "name": "Delegate",
     "category": "Marketplace",
     "description": "Delegate is the best solution to secure valuable onchain assets while still participating in NFT airdrop claims, ERC20 token governance, and more. Users link cold wallets with hot wallets, and then the hot wallet can act on behalf of the cold wallet, like crypto power-of-attorney.",
@@ -584,7 +584,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/perl.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/perl.png",
     "name": "Perl",
     "category": "Games",
     "description": "Perl is a skill-based prediction game. Test your predictions skills and win $PERL for choosing correctly!",
@@ -592,7 +592,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/traceye.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/traceye.png",
     "name": "Traceye",
     "category": "Infrastructure",
     "description": "Traceye - Blockchain Data Indexing\nIndex and Query Blockchain Data 5x faster with Traceye\nGet a shared and dedicated indexer for all EVM, Cosmos SDK, and Substrate chains, including your custom AppChains and Rollups. - Ultrafast indexing, backfill data at 5X speed - Zero Maintenance - High Availability with 99.99% uptime",
@@ -604,7 +604,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/swoop-exchange.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/swoop-exchange.jpeg",
     "name": "Swoop Exchange",
     "category": "DeFi",
     "description": "Swoop Exchange is the best place for optimal swaps across chains. Swoop Exchange is a Meta-DEX Aggregator that automatically sources, ranks, and routes quotes from the best DEX Aggregators and Bridges, ensuring the best prices for same-chain and cross-chain swaps. We pull together the best rates from over 280 sources like Open Ocean, 1inch, ParaSwap, Hop, and more. Whether it's finding the best prices, swapping across chains, or keeping things secure, we've got your back. With Swoop Exchange you get access to: 450,000+ Tokens, 7+ Audited Aggregators, 13+ Bridges, 50+ DEXs, 280+ Liquidity Sources, 16+ Blockchains, AMM and RFQ execution.",
@@ -616,7 +616,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/integral.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/integral.png",
     "name": "Integral",
     "category": "Others",
     "description": "Integral provides comprehensive financial solutions designed for efficiency and accuracy in the Web3/NFT industry. Through our platform, we automate bookkeeping, calculate real-time P&L, and offer powerful integrations for a full financial view.",
@@ -628,7 +628,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/rubic.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/rubic.png",
     "name": "Rubic",
     "category": "DeFi",
     "description": "Rubic is a Cross-Chain Tech Aggregator for users + tools for dApps. Trade 15,500+ tokens across 70+ networks, through the aggregation of 220+ DEXs and bridges!\n",
@@ -640,7 +640,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/beam.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/beam.jpeg",
     "name": "Beam",
     "category": "DeFi",
     "description": "Beam is a self-custody payments for the mainstream — no download or signup required. It's the easiest way on the planet to send money. Beam combines the benefits of crypto with the ease of use and familiarity of products like Venmo & Cash App.",
@@ -652,7 +652,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/moshicam.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/moshicam.jpeg",
     "name": "Moshicam",
     "category": "Social",
     "description": "Photo sharing app on chain, Base Chain network",
@@ -664,7 +664,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/parsec.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/parsec.jpeg",
     "name": "Parsec",
     "category": "Tooling",
     "description": "Parsec is a “high context” block explorer. completely interoperable onchain terminal. The explorer is feature complete with existing explorers. parsec is fully crosschain.",
@@ -676,7 +676,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kado.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kado.jpeg",
     "name": "Kado",
     "category": "Others",
     "description": "Fiat to crypto on/off ramp platform to easy Onboarding to DeFi and direct to self custody ",
@@ -688,7 +688,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/ultimate-digits.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ultimate-digits.jpeg",
     "name": "Ultimate Digits",
     "category": "Infrastructure",
     "description": "Ultimate Digits is an infrastructure L3 on Arbitrum and Base.\nWe’re building a protocol making users’ current mobile numbers their Web3 identity, and providing +999-prefix virtual mobile numbers as Ethereum NFTs. We maintain the privacy of users’ mobile numbers, on-chain.\n\nWe offer a more intuitive Web2.5 bridge since people are used to abstracting bank accounts with mobile numbers due to the fintech protocol - UPI (used by VietPay in Vietnam). Starting with the utility of asset transfers, we’ll evolve to decentralized telephony and other value-added services. Our goal is to do with the ITU what ENS attempted to do with ICANN. Ultimate Digits is launching as a Web-app, and will soon include a Telegram bot and Metamask Snap.",
@@ -700,7 +700,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cielo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cielo.jpeg",
     "name": "Cielo",
     "category": "Tooling",
     "description": "Universal multi-chain reader for EVM + Solana. ",
@@ -712,7 +712,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/l2beat.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/l2beat.jpeg",
     "name": "L2BEAT",
     "category": "Tooling",
     "description": "L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.",
@@ -724,7 +724,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/wannabet.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/wannabet.png",
     "name": "WannaBet",
     "category": "Games",
     "description": "WannaBet is an onchain peer-to-peer social betting tool that enables two parties to enter into a wager and escrow the parties’ funds in a noncustodial smart contract. The funds then can only be released by a designated third-party judge who determines the wager's outcome.",
@@ -732,7 +732,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/defillama.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/defillama.jpeg",
     "name": "DefiLlama",
     "category": "Tooling",
     "description": "DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). its data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols.",
@@ -744,7 +744,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/blockscout.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/blockscout.png",
     "name": "Blockscout",
     "category": "Infrastructure",
     "description": "Blockscout is a full-featured, open-source block explorer portal built for all EVM chains, Optimistic Rollups, zk Rollups and more.",
@@ -756,7 +756,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/clusters.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/clusters.jpeg",
     "name": "Clusters",
     "category": "Tooling",
     "description": "Cluster is a cross-chain name service, which let's users bid on and register wallet names that work across Ethereum and non-Ethereum chains simultaneously. ",
@@ -768,7 +768,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/privy.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/privy.png",
     "name": "Privy",
     "category": "Infrastructure",
     "description": "Privy is a simple library to onboard all your users to web3, regardless of whether they have a wallet, across mobile and desktop",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/openrank.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/openrank.jpeg",
     "name": "OpenRank",
     "category": "Infrastructure",
     "description": "OpenRank is a decentralized ranking and reputation protocol. It enables a verifiable reputation compute layer for the open web that unlocks a broad range of useful applications, including those that resist cryptographic or game-theoretic mechanisms of trust.",
@@ -788,7 +788,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/idriss.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/idriss.jpeg",
     "name": "IDriss",
     "category": "Infrastructure",
     "description": "A community-owned and operated suite of tools making web3 more usable for everyone 🤝",
@@ -800,7 +800,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/time-token-finance.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/time-token-finance.png",
     "name": "TIME Token Finance",
     "category": "DeFi",
     "description": "TIME Token Finance is a platform that reimagines time, a pivotal factor in financial transactions. It empowers individuals to convert time into tokens, unlocking its economic utility. This innovation addresses challenges like interest calculations, asset releases, and agreement conditions, providing a new, quantifiable perspective on time in the world of finance.",
@@ -812,7 +812,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/renzo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/renzo.jpeg",
     "name": "Renzo",
     "category": "DeFi",
     "description": "Renzo is a Liquid Restaking Token (LRT) and Strategy Manager for EigenLayer. It is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.\n\nThe protocol abstracts all complexity from the end-user and enables easy collaboration between users and EigenLayer node operators.",
@@ -824,7 +824,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mozaic-finance.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mozaic-finance.png",
     "name": "Mozaic Finance",
     "category": "DeFi",
     "description": "What is Mozaic?\nSimply put, Mozaic provides automatic yield farming using AI and Layer-Zero technology.\nBut it's much more than that. \nMozaic is a community founded project, bootstrapped by a highly experienced team with the goal of bringing AI into the hands of everyday users.\nObjective\nThe AI, Archimedes has one objective:\nTo save users time and maximize their profitability. \nHe does this by removing the indecisions involved with yield farming as he compounds and rebalances assets to the highest APY pools every hour. \nArchimedes thinks like a trader. He is programmed with the core team's institutional grade technology and proprietary trading strategies. \nWhy is Mozaic?\nThe saturation of choice and the difficulty of discovering yield opportunities has and continues to be a major hurdle for the average cryptocurrency holder, adding unnecessary levels of complexity to the simple question of; \"Where can I stake my tokens to achieve the highest return?\"\nMozaic eliminates this problem by making the most efficient yield farming decisions on behalf of the end user.",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/daosquare.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/daosquare.png",
     "name": "DAOSquare",
     "category": "DeFi",
     "description": "DAOSquare Incubator is an open marketplace where people build and invest in global Venture DAOs easily and safely.",
@@ -848,7 +848,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/zerodev.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/zerodev.jpeg",
     "name": "ZeroDev",
     "category": "DeFi",
     "description": "ZeroDev makes Web3 UX feel like Web2 with account abstraction (AA), helping users skip seed phrases, gas fees, and signing prompts, all while maintaining security and self-custody!\n",
@@ -860,7 +860,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/lucid.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/lucid.jpeg",
     "name": "Lucid",
     "category": "DeFi",
     "description": "Lucid enables seamless, secure, and flexible multi-chain expansion for Decentralised Finance (DeFi)",
@@ -872,7 +872,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/fuul.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fuul.png",
     "name": "Fuul",
     "category": "Social",
     "description": "Fuul is an affiliate marketing protocol that lets projects deploy their affiliate and points systems onchain",
@@ -884,7 +884,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/fortytwo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fortytwo.jpeg",
     "name": "FortyTwo",
     "category": "DeFi",
     "description": "A Frontend for an Interchain World",
@@ -896,7 +896,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/indexed.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/indexed.jpeg",
     "name": "Indexed",
     "category": "Tooling",
     "description": "Open access to raw and decoded blockchain datasets. Explore blocks, traces, & event logs directly on your local machine, for free.",
@@ -908,7 +908,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pancake-swap.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pancake-swap.png",
     "name": "Pancake Swap",
     "category": "DeFi",
     "description": "PancakeSwap is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.\n\nThe Dream?\n\nStacks of pancakes, syrup, whipped cream.\n\nThen after breakfast, PancakeSwap is aiming to be the #1 liquidity provider on Binance Smart Chain and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.",
@@ -920,7 +920,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/very-internet-person.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/very-internet-person.png",
     "name": "Very Internet Person",
     "category": "NFTs",
     "description": "Neochibi aesthetic pixel goool icons/avatars for going online and having fun.\n\nViral public license internet works",
@@ -932,7 +932,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/dot.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dot.jpeg",
     "name": "Dot",
     "category": "Tooling",
     "description": "Dot celebrates the special art form of pixel art by giving you a canvas to paint on and an idea to bring to life. Share your creativity with the world as digital cards and collect other artists' cards.",
@@ -944,7 +944,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/decent.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/decent.jpeg",
     "name": "Decent",
     "category": "Infrastructure",
     "description": "Decent provides multi-chain NFT infrastructure that makes creation and transaction of all NFTs a simple and easy user experience.",
@@ -956,7 +956,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/drawtech.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/drawtech.png",
     "name": "Drawtech",
     "category": "Games",
     "description": "Drawtech is the first ever fully onchain mobile game. Draw together on shared canvas. Earn rewards.",
@@ -964,7 +964,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/endorse.fun.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/endorse.fun.png",
     "name": "endorse.fun",
     "category": "Social",
     "description": "endose.fun is an innovative on-chain social endorsement and tipping service designed to build a comprehensive social graph and establish a reliable reputation layer of Web3.",
@@ -976,7 +976,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/divide.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/divide.png",
     "name": "Divide",
     "category": "Social",
     "description": "Split irl expenses with friends, settle in USDC.\n• One place for friends to keep track of expenses.\n• Expense in any currency\n• Settle instantly and globally in usdc",
@@ -988,7 +988,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mint-club.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mint-club.jpeg",
     "name": "Mint Club",
     "category": "NFTs",
     "description": "Mint Club allows you to create a customizable bonding curve-backed token or NFT. You have the flexibility to choose any ERC20 token as the base asset for your bonding curve pool on Ethereum, Base, Arbitrum, Optimism, and BNB Chain, eliminating the need to establish a physical liquidity pool.",
@@ -1000,7 +1000,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/safary.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/safary.png",
     "name": "Safary",
     "category": "Metaverse",
     "description": "Safary is a community-first company that is rebuilding the marketing stack in Web3, starting with analytics and attribution. Web3 teams use our platform to understand their marketing CAC, channel ROI, and customer LTV. The community consists of the top web3 growth leaders from Ledger, Dapper Labs, CoinMarketCap, and 200+ web3 companies. Members exchange insights and work together to reverse-engineer web3 growth tactics.",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/omo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/omo.jpeg",
     "name": "omo",
     "category": "Tooling",
     "description": "crypto payments made easy. The missing UI for payments across every network, chain, and wallet. ",
@@ -1024,7 +1024,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/shadow.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/shadow.jpeg",
     "name": "Shadow",
     "category": "Tooling",
     "description": "Shadow enables anyone to get custom onchain data with just a few lines of code, reducing engineering time and costs for advanced onchain data indexing and analytics.\n ",
@@ -1036,7 +1036,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/base-paint.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/base-paint.jpeg",
     "name": "Base Paint",
     "category": "NFTs",
     "description": "BasePaint is where artists come together and make a piece of pixel art daily. to paint you need brushes by minting or apply. voting system makes day's theme everyday.\nartists=YOU ;)",
@@ -1048,7 +1048,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/superbridge.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/superbridge.png",
     "name": "Superbridge",
     "category": "Bridges",
     "description": "The Superbridge is your entry point into Superchain!\nWith the Superbridge, you can bridge Ether and other tokens in and out of the Superchain. The goal is to support deposit and withdrawal functionality for every OPStack network.",
@@ -1060,7 +1060,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/dora.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dora.jpeg",
     "name": "Dora",
     "category": "Tooling",
     "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption. ",
@@ -1072,7 +1072,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/onramper.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/onramper.png",
     "name": "Onramper",
     "category": "Others",
     "description": "Fiat onramp aggregator with the highest transaction success rates on the market.\n",
@@ -1084,7 +1084,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/okx.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/okx.jpeg",
     "name": "Okx",
     "category": "Blockchain",
     "description": "The only app you'll need for 'all things crypto'\n|For Support: @OKXHelpDesk | For UK:\n@OKX UK | Engagement # Endorsement",
@@ -1092,7 +1092,7 @@
     "socials": { "x": "https://x.com/okx", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/chainsafe.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/chainsafe.jpeg",
     "name": "ChainSafe",
     "category": "Tooling",
     "description": "ChainSafe is one of the few multi-chain research and development firms. We support the decentralized web through high-impact contributions to leading protocols. Our work comprises node implementations, smart contract engineering, distributed systems research, blockchain applications, tools, audits, and much more.\n\nEverything we work on is open-source and community-oriented. And our work in various ecosystems reflects the conviction that the full vision for web3 cannot be realized without persistence, collaboration, and an open mind.",
@@ -1104,7 +1104,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/walletbeat.fyi.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/walletbeat.fyi.jpeg",
     "name": "Walletbeat.fyi",
     "category": "Others",
     "description": "Walletbeat is an open repository of EVM-compatible wallets.\nContribute at https://github.com/fluidkey/walletbeat",
@@ -1112,7 +1112,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/hapi-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/hapi-protocol.jpeg",
     "name": "HAPI Protocol",
     "category": "Tooling",
     "description": "HAPI is an on- and off-chain solution that provides a diverse set of data on malicious and fraudulent activity within the Blockchain space. HAPI is subdivided into two parts: Protocol part which is essentially an on-chain publicly available and accessible database on malicious addresses, activity and can be accessed both via Smart Contracts as well as API, and off-chain part that allows both users and business to utilize a real-time monitoring and vetting system of both Token Smart Contracts (common vulnerabilities) and Malicious Addresses. HAPI also utilizes machine learning for off-chain data processing and aggregates data from public and paid data points to ensure the highest accuracy of risk representation.",
@@ -1124,7 +1124,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/builder.fi.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/builder.fi.jpeg",
     "name": "builder.fi",
     "category": "Social",
     "description": "q&a marketplace built on Base and Farcaster",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/capsule.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/capsule.jpeg",
     "name": "Capsule",
     "category": "Infrastructure",
     "description": "Cross-app embedded wallet infrastructure. ",
@@ -1148,7 +1148,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/glide.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/glide.png",
     "name": "Glide",
     "category": "Bridges",
     "description": "Glide lets users complete transactions with tokens they already have without the need to swap or bridge. It supports all EVM-compatible chains, hundreds of tokens, and lets users transact with the most popular smart contracts.",
@@ -1160,7 +1160,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/envio.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/envio.png",
     "name": "Envio",
     "category": "Tooling",
     "description": "By builders, for builders. \n\nEnvio is a dev-friendly, speed-optimized, modern blockchain indexing solution that addresses the limitations of traditional blockchain indexing approaches and gives developers peace of mind. \n\nBy harnessing the power of Envio, developers can overcome the challenges posed by latency, reliability, and costs across various sources. Envio serves as the front door for any application’s need to access, transform, and save real-time or historical data, from any EVM-compatible smart contracts. \n\nIf you're a blockchain developer looking to enhance your development process and unlock the true potential of Web3 infrastructure, look no further. Ship with us. 🚢",
@@ -1172,7 +1172,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/anotherblock.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/anotherblock.jpeg",
     "name": "anotherblock",
     "category": "Social",
     "description": "anotherblock allows you to become a co-owner in high-quality tracks, creating an emotional and financial connection with the music you love. this is more than a platform — it's a revolution.",
@@ -1184,7 +1184,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sofamon.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sofamon.jpeg",
     "name": "Sofamon",
     "category": "Social",
     "description": "Sofamon is a platform that enables a new form of culture capture.\n\nUsers can represent themselves in a new form factor, while artists have a new medium to capture their artistic styles and historical moments.",
@@ -1196,7 +1196,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/blockscope.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/blockscope.jpeg",
     "name": "Blockscope",
     "category": "Others",
     "description": "Blockscope is a Web3 data platform that enables anyone interested in on-chain data to quickly spin up live or historical data pipelines (for blocks, event, transaction, wallets, token, NFTs, etc). Similar to AWS, users have access to variety of managed software services to analyze, interact with or inject captured data into their apps.",
@@ -1208,7 +1208,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mint.fun.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mint.fun.jpeg",
     "name": "mint.fun",
     "category": "Marketplace",
     "description": "Mint new NFT projects safely from one interface.\n",
@@ -1220,7 +1220,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/guild.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/guild.jpeg",
     "name": "guild",
     "category": "Infrastructure",
     "description": "Guild is the infrastructure for automated access management. It is designed to create portable memberships, social structures around off- and onchain actions across apps.",
@@ -1232,7 +1232,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bracket-game.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bracket-game.jpeg",
     "name": "Bracket Game",
     "category": "DeFi",
     "description": "Bracket Game is an app for trading votes for your favorite sport teams within various sport-leagues, across the current season and also future seasons. Each league (NFL, NBA, NCAAB, etc) has a unique contract in which every team from that league is represented by one 'collective' of trusted fans who control a unique multi-sig Safe wallet. Each collective receives payouts from the Game based on the exit round of its team in the real-life tournament.",
@@ -1240,7 +1240,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pocketcast.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pocketcast.png",
     "name": "PocketCast",
     "category": "NFTs",
     "description": "Mint your favorite casts from Farcaster as NFTs, powered by Pinata",
@@ -1248,7 +1248,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/speedtracer.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/speedtracer.jpeg",
     "name": "Speedtracer",
     "category": "Games",
     "description": "Speedtracer is a fully onchain, longform generative art project. The racetrack artworks are used in a daily casual mobile game",
@@ -1260,7 +1260,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/launcher.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/launcher.jpeg",
     "name": "Launcher",
     "category": "Tooling",
     "description": "Create, share, and discover crypto actions on Ethereum, Optimism, Base, and Zora",
@@ -1272,7 +1272,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/surreal.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/surreal.jpeg",
     "name": "Surreal",
     "category": "Social",
     "description": "A go-to mobile app for onchain media",
@@ -1284,7 +1284,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/triangle.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/triangle.jpeg",
     "name": "Triangle",
     "category": "Tooling",
     "description": "Triangle powers businesses to embed Web3 experiences across DeFi, NFTs, payments, social, gaming, and many more by using our wallet infrastructure API to build frictionless products and services. The Triangle API helps you programmatically manage wallets, also known as a Wallet as a Service (WaaS). It's as simple as 1) an endpoint to spin up wallets for your users (with multi-chain support), and 2) endpoints to transact and interact with a protocol/smart contract/etc. We do all the heavy lifting and remove the onboarding friction so that you can focus on building/growing your core business and your users can spend their time engaging with your product.",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sparkfi.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sparkfi.jpeg",
     "name": "Sparkfi",
     "category": "DeFi",
     "description": "Sparkfi is a DeFi ecosystem that's native to Base. It is most importantly, an incubation hub for projects of all genres that intend to raise capital to aid their web3 journey. Sparkfi is presently on the Base chain with a vision to become a multi-chain project.",
@@ -1308,7 +1308,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/show-up-protocol.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/show-up-protocol.png",
     "name": "Show Up Protocol",
     "category": "Others",
     "description": "Sup 😎👋\n\nShow Up reduces no shows by aligning the incentives between event organizers and attendees\n- Organizers request a deposit fee on registration which is returned when showing up\n- Attendees split the pot and earn $$ by showing up at events!\n\nwin/win for everyone 🤝",
@@ -1316,7 +1316,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/gallery.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/gallery.png",
     "name": "Gallery ",
     "category": "Social",
     "description": "A social app for sharing your digital objects.",
@@ -1328,7 +1328,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/ponder.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ponder.jpeg",
     "name": "Ponder",
     "category": "Social",
     "description": "Build the front page of your favourite topics.",
@@ -1336,7 +1336,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/moonwell.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/moonwell.png",
     "name": "Moonwell",
     "category": "DeFi",
     "description": "Moonwell prioritizes security, providing a robust and battle-hardened platform for its community. All Moonwell smart contracts undergo comprehensive audits from Halborn Security, and our ImmuneFI powered bug bounty program rewards the discovery of vulnerabilities.",
@@ -1348,7 +1348,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/axelar.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/axelar.jpeg",
     "name": "Axelar",
     "category": "Bridges",
     "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
@@ -1360,7 +1360,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/feefree.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/feefree.png",
     "name": "FeeFree",
     "category": "DeFi",
     "description": "FeeFree is a decentralized exchange (DEX) that provides a fee-free DeFi experience with zero LP fees. FeeFree aims to minimize gas costs, with each transaction incurring only a nominal flat gas fee per transaction (less than $0.1 per transaction).",
@@ -1372,7 +1372,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/routescan.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/routescan.jpeg",
     "name": "Routescan",
     "category": "Tooling",
     "description": "Routescan is the world’s first unified multi-ecosystem block explorer platform.",
@@ -1384,7 +1384,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/20lab---token-generator.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/20lab---token-generator.jpeg",
     "name": "20lab - Token generator",
     "category": "Infrastructure",
     "description": "20lab.app is the most customizable ERC-20 & SPL token generator with over 14 customizable & extendable features and lots of popular blockchains supported. Code tested & audited multiple times. Test our generator for free and manage functions via token owner dashboard.",
@@ -1396,7 +1396,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/metadock.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/metadock.jpeg",
     "name": "MetaDock",
     "category": "Others",
     "description": "MetaDock is Builders' Swiss Army Knife. It aims to deliver an enhanced user experience by integrating various innovative features and connecting useful tools into blockchain explorers and dApps.\n\nMetaDock supports Chrome, Edge, Firefox, Safari, and Brave browsers.",
@@ -1408,7 +1408,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/ucf-finance.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ucf-finance.png",
     "name": "UCF Finance",
     "category": "DeFi",
     "description": "UCF Finance is a DEX, Defi, NFT marcetplace, blockchain project developing by the group of enthusiastic people who loves the decentralization! The decisions and actions of UCF are made by its community through voting to assure equity and fairness for all service through UCF! The UCF Finance Network is a community of students, alumni, and professionals who are interested in finance, accounting, and related fields. The network provides an opportunity for members to connect with each other, share knowledge and experiences, and build relationships. The LuArt is a Official UCF NFT collection creator with up to 200,000 NFT UCF team to a vial of LuArt or by minting a UCF servises in the public sale in the future. UCF FINANCE team present LuArt \"Platinum\" \"Gold\" \"m\" ... collections hand made with different opportunities use of the service include some previlegie like fee discounts, access prime news, beutiful bounties from UCF etc.",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/songtech.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/songtech.png",
     "name": "SongTech",
     "category": "Social",
     "description": "SongTech is a revolutionary platform allowing users to bet on their favorite songs. Anyone can submit a song for a fee of 0.001ETH and holders receive 5% of all buys and sells, another 5% is reserved for the artist themselves.\n",
@@ -1432,7 +1432,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/swatches-by-jvmi.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/swatches-by-jvmi.jpeg",
     "name": "Swatches by Jvmi",
     "category": "NFTs",
     "description": "swatches is an an interactive generative art collection\n\neach swatch is a unique art piece defined by a 3x3 grid of shapes of distinct color drawn from curated color palettes. the infinitely repeatable interaction begins when the viewer touches a shape, causing it to disappear momentarily as the shape's color spills across the entire grid.\n\nevery swatch offers various modes that alter the visual presentation, including:\n\ncircular - shape edges are rounded\nsquare - shapes edges are harsh\nhypnotic - shapes ripple infinitely",
@@ -1444,7 +1444,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/scopescan.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/scopescan.jpeg",
     "name": "Scopescan",
     "category": "Others",
     "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
@@ -1456,7 +1456,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/openfriend.tech.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/openfriend.tech.jpeg",
     "name": "Openfriend.tech",
     "category": "Social",
     "description": "OpenFriend.Tech is an auxiliary tool providing multi-dimensional data analytics for Friend.Tech. Besides, users can build their onchain reputation and social network via our onchain profiles.",
@@ -1468,7 +1468,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/symbiosis.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/symbiosis.jpeg",
     "name": "Symbiosis",
     "category": "DeFi",
     "description": "Symbiosis is a decentralized exchange that pools together liquidity from different blockchains, whether they use EVM technology or not. With Symbiosis, users can effortlessly trade any token and transfer their assets across blockchains. No need to worry about which network a token is on or how to move funds between different blockchains. All cross-chain operations are done in a single click (one transaction) at competitive exchange rates and transaction costs.",
@@ -1480,7 +1480,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bas3d.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bas3d.jpeg",
     "name": "BAS3D",
     "category": "DeFi",
     "description": "BAS3D is a pioneering yield optimization protocol accompanied by lucrative yield farming prospects. We have meticulously crafted this platform for utmost efficiency and effectiveness. Let's delve into a concise overview of the offerings awaiting you at BAS3D.io",
@@ -1492,7 +1492,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/base-name-service.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/base-name-service.png",
     "name": "Base Name Service",
     "category": "Social",
     "description": "Base Name Service (BNS) is a native naming service built on Base. BNS maps human readable names like “bob.base” to crypto wallet addresses, AA addresses, decentralized webs, hashes, and metadata.",
@@ -1504,7 +1504,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/commonwealth.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/commonwealth.png",
     "name": "Commonwealth",
     "category": "Social",
     "description": "All-in-one platform for on-chain communities to discuss, vote, and fund projects together.",
@@ -1516,7 +1516,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bonfire.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bonfire.jpeg",
     "name": "Bonfire",
     "category": "Social",
     "description": "Bonfire lets creators design unique digital spaces to share exclusive content, host drops, and engage directly with their biggest fans.",
@@ -1528,7 +1528,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/satellite.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/satellite.png",
     "name": "Satellite",
     "category": "DeFi",
     "description": "Satellite is a web application built on top of the Axelar Network. It provides an easy to use interface which enables users to transfer their crypto assets from one chain to another",
@@ -1540,7 +1540,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/outposts.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/outposts.png",
     "name": "Outposts",
     "category": "Social",
     "description": "Personalized Web3 Digests.\n\nWeb3 is fast - feeling overwhelmed and out of the loop? \n\nOutposts uses web3's interoperability to auto-curate a personalized web3 digest just for you. All your communities are already here. Take back your time and attention and stay more informed. \n\nIs your community engagement low? Outposts help reach the parts of your community that haven't seen your project in months.",
@@ -1552,7 +1552,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/tenderly.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/tenderly.png",
     "name": "Tenderly",
     "category": "Infrastructure",
     "description": "All-in-One Web3 Dev Platform - development, observability & infrastructure. Build, debug, test & run reliable dapps. Try for free https://t.co/CvH0cDaTyA",
@@ -1564,7 +1564,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/reveel.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/reveel.jpeg",
     "name": "Reveel",
     "category": "DeFi",
     "description": "Reveel is a trustless & composable protocol for sharing revenue. It helps creators distribute revenue in the most gas-optimal fashion with collaborators. Every revenue path in Reveel is created as an independent entity, which requires no external maintenance to operate.\nRevenue Paths are the independent instances that receive funds and help the distribution process for a team. All ETH & ERC20 received in a revenue path will be distributed according to the tier specifications.",
@@ -1576,7 +1576,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/hypersub.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/hypersub.jpeg",
     "name": "Hypersub",
     "category": "Tooling",
     "description": "create recurring revenue onchain with nft subscriptions",
@@ -1588,7 +1588,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/den.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/den.jpeg",
     "name": "Den",
     "category": "Tooling",
     "description": "The fastest multisig for onchain teams",
@@ -1600,7 +1600,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kook.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kook.png",
     "name": "Kook",
     "category": "DeFi",
     "description": "Kook is a Yield Hub where you can compare defi pools yield, invest with ANY token and monitor your positions.\n\nNo additional smart contract layer, no fees taken.",
@@ -1612,7 +1612,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/vektor.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/vektor.png",
     "name": "VEKTOR",
     "category": "DeFi",
     "description": "VEKTOR provides a next-generation Defi interface for investors to compose and execute powerful transactions on multiple blockchains, while avoiding the complexities of DeFi.\nVektor’s architecture is designed around universal execution language (VXL), gives it a number of distinct advantages when comes to usability and flexibility.",
@@ -1624,7 +1624,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cryptoworth.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cryptoworth.png",
     "name": "Cryptoworth",
     "category": "Others",
     "description": "Cryptoworth helps businesses of all sizes to automate their back-office crypto tasks and make smarter decisions faster. The automated crypto financial management syncs 130+ blockchains and 1,000 more sources. Execute Cost Basis, WAC calculations, and generate financial reports. ",
@@ -1636,7 +1636,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/rekt-gang.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/rekt-gang.jpeg",
     "name": "Rekt Gang ",
     "category": "Marketplace",
     "description": "Rekt Gang is a community-driven initiative focusing on providing a collaborative and supportive environment for crypto enthusiasts.  ",
@@ -1648,7 +1648,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/walletkit.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/walletkit.png",
     "name": "WalletKit",
     "category": "Tooling",
     "description": "Pre-built React UI components to easily onboard users onto your app using email, social logins, and passkeys",
@@ -1656,7 +1656,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/fren-pet.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fren-pet.jpeg",
     "name": "Fren Pet",
     "category": "Games",
     "description": "Fren Pet is an indie game on the base blockchain developed by @caduveloso and @surfcoderepeat, we will keep adding a feature a week as long as players enjoy and are active.",
@@ -1668,7 +1668,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/loopcrypto.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/loopcrypto.jpeg",
     "name": "Loopcrypto",
     "category": "Infrastructure",
     "description": "Loop is trusted payment infrastructure for web3\n​ makes it simple to collect and pay in crypto by allowing companies to schedule payments and turn on autopay.  \nBy enabling autopay Loop reduces customer churn and eliminates time-consuming payment collection and follow-up and by connecting on-chain and off-chain data, Loop streamlines invoice reconciliation and accounting. Loop does this by providing the smart contracts and the tooling companies and DAOs need to bring automation to their workflows.",
@@ -1680,7 +1680,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mellow-protocol.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mellow-protocol.png",
     "name": "Mellow Protocol",
     "category": "DeFi",
     "description": "Permissionless vaults ecosystem for capital efficiency – we create the future of optimal cross-protocol multi-token liquidity allocation.",
@@ -1692,7 +1692,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/magnify-cash.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/magnify-cash.png",
     "name": "Magnify Cash",
     "category": "DeFi",
     "description": "Magnify.Cash is a Decentralized Credit Market (DCM) that supports lending in any currency, against any collateral, on your own terms.",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/nouns-builder.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/nouns-builder.jpeg",
     "name": "Nouns Builder",
     "category": "DAO",
     "description": "Nouns Builder is a tool that allows any DAO to form and govern completely onchain, in the format of Nouns DAO.\nNouns are an experimental attempt to improve the formation of onchain avatar communities. While projects such as Cryptopunks have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap community and identity with the additive layer of governance and a treasury.",
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/tally.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/tally.jpeg",
     "name": "Tally",
     "category": "DAO",
     "description": "Run DAOs Onchain ➟ Tally powers protocols, treasuries and public goods",
@@ -1728,7 +1728,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pwndao.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pwndao.png",
     "name": "PWNDAO",
     "category": "DeFi",
     "description": "PWN is the most universal, oracle-free, P2P lending protocol, providing maximum asset utilization. You can Invest in loans with an average interest of 11%. Or maximize liquidity using ANY token as collateral. All with 0% fees, zero risk of liquidation or price manipulation. Open source and double audited.",
@@ -1740,7 +1740,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/dropspace.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dropspace.png",
     "name": "Dropspace",
     "category": "NFTs",
     "description": "Seamless no-code NFT minting solution on multiple popular chains including:\n\n-Ethereum\n-BNB Chain\n-Base\n-Polygon\n-Aleph Zero\n-Aptos\n\ndropspace is a cutting-edge NFT minting platform designed to simplify the NFT creation process for artists, creators, brands and enthusiasts. It offers an intuitive interface for minting NFTs, adding metadata, and integrating NFT sales into websites.\n\nThe best part? It's free for creating digital collectibles of all types.\n\nImagine it not like a launchpad but like a Stripe-like checkout tool for easy NFT minting. You embed the widget on your website and voila, you sell your NFT.\n\nWe've seen a range of applications including brand communities, pfp projects, ebooks, memberships, ecommerce items and now we want to expand that even more.\n\nCome and mint your collection on dropspace. The world is waiting to see your creations.",
@@ -1752,7 +1752,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/peanut-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/peanut-protocol.jpeg",
     "name": "Peanut Protocol",
     "category": "DeFi",
     "description": "Forget chains and wallet addresses. Send tokens with a trustless payment link, no matter whether the recipient has a wallet.",
@@ -1764,7 +1764,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kreatorland.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kreatorland.png",
     "name": "Kreatorland",
     "category": "Marketplace",
     "description": "Discover, trade & launch digital items with the Layer 2 native largest NFT marketplace.",
@@ -1776,7 +1776,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/odos-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/odos-protocol.jpeg",
     "name": "ODOS protocol",
     "category": "DeFi",
     "description": "Odos is a Smart Order Routing (SOR) solution that leverages a patented Automated Market Maker (AMM) path finding algorithm to aggregate decentralized exchanges (DEX) and find optimal routes for token swaps. By traversing a large universe of connecting token pairs and performing complex order splits, Odos is the ultimate choice for institutional and retail traders. Odos is the first aggregator to introduce a multi-asset input feature that enables users to swap from several tokens into one asset in a single atomic transaction.",
@@ -1788,7 +1788,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/xmtp.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/xmtp.jpeg",
     "name": "XMTP",
     "category": "Infrastructure",
     "description": "XMTP (Extensible Message Transport Protocol) is an open protocol, network, and standards for secure, private web3 messaging.",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pooltogether.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pooltogether.png",
     "name": "PoolTogether",
     "category": "DeFi",
     "description": "PoolTogether is a prize savings protocol, enabling you to win by saving. Every dollar you deposit gives you a chance to win prizes. The more you save, the higher your odds!\n\nPoolTogether is one of the first and most widely used DeFi applications and has been live for over three years. Since its inception, the protocol distributed over $5 million in prizes to depositors. The luckiest winner so far deposited $74 and won over $40,000.",
@@ -1812,7 +1812,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/dune.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dune.png",
     "name": "Dune",
     "category": "Tooling",
     "description": "Blockchains are open and transparent, but each chain is unique—making it difficult to understand, ingest, and aggregate data. Dune gives you the proper tools to analyze cross-chain data for different tokens, wallets, and protocols. You can also easily share your work with the community.",
@@ -1824,7 +1824,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/coinvise.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/coinvise.jpeg",
     "name": "Coinvise",
     "category": "Tooling",
     "description": "Distribute tokens to your community for collecting NFTs, engaging on twitter, voting on proposals and more.",
@@ -1836,7 +1836,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/socket.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/socket.jpeg",
     "name": "Socket",
     "category": "Bridges",
     "description": "Socket is an interoperability protocol for secure & efficient data and asset transfers across chains. Socket is not a bridge, or a cross chain app - it is an infrastructure that allows developers to build these things easily. Developers can use Socket to build apps with interoperability as a core part of app infrastructure. \n\nSocket’s interoperability stack comprises two key components :\n1. Socket Liquidity Layer (SocketLL): SocketLL enables efficient asset transfer across chains. It unifies liquidity across bridges & DEXs, and routes funds via them based on user preferences like fees, speed or security.\n2. Socket Data Layer (SocketDL): SocketDL enables secure data transfer across chains. It unifies chains by connecting all smart contracts on all chains, allowing them to perform read & write operations on each other. Data transfer via SocketDL will be rolled out soon.\n\n",
@@ -1848,7 +1848,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/once-upon.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/once-upon.jpeg",
     "name": "Once Upon",
     "category": "Infrastructure",
     "description": "Once Upon makes the blockchain human-readable, enabling users to search, discover, and understand what's happening in the world of Web3.",
@@ -1860,7 +1860,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/partydao.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/partydao.jpeg",
     "name": "PartyDAO",
     "category": "DAO",
     "description": "Party is an app that lets you create a group on-chain and use Ethereum together. It’s easy to use: just create a group, make decisions, and take action. ",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cryptosender.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cryptosender.png",
     "name": "Cryptosender",
     "category": "DeFi",
     "description": "Send ERC20 Token or native chain tokens to thousands of addresses at once with Token MultiSender. Bulk crypto transferring.",
@@ -1884,7 +1884,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/aragon.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/aragon.jpeg",
     "name": "Aragon",
     "category": "DAO",
     "description": "Create global, bureaucracy-free organizations, companies, and communities",
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/orbiter-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/orbiter-finance.jpeg",
     "name": "Orbiter Finance",
     "category": "DeFi",
     "description": "Orbiter Finance is a decentralized cross-rollup bridge that offers low cost, safe and almost instant transfers of Ethereum native assets.",
@@ -1908,7 +1908,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bungee.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bungee.jpeg",
     "name": "Bungee",
     "category": "Bridges",
     "description": "Bungee is a one stop solution for all bridges. It aggregates and computes all the routes possible for moving tokens from one chain to a different chain. The APIs can also be plugged into your dapps directly to enable cross chain transfers. Bungee also enables getting gas on other chains through their product called Refuel! On Refuel you can swap native tokens on the source chain to get gas for a few transactions on a different chain. ",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/solidityscan.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/solidityscan.jpeg",
     "name": "SolidityScan",
     "category": "Tooling",
     "description": "SolidityScan is an automated auditing & vulnerability scanning platform built to discover vulnerabilities, suggest remediations and help publish audit reports after vulnerability mitigations for Solidity Smart Contracts. It encompasses more than 160 vulnerability detectors with an average scan time of only 6 seconds. It supports integrating multiple functionalities such as Github repositories, Gitlab, BitBucket, Buildbear, Slack & many others.",
@@ -1932,7 +1932,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/aave.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/aave.png",
     "name": "aave",
     "category": "DeFi",
     "description": "aave is a decentralized non-custodial money market protocol where users can participate as depositors or borrowers. depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/fini.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fini.jpeg",
     "name": "Fini",
     "category": "Social",
     "description": "The finiliar are digital friends that keep you up to date with the things you care about.",
@@ -1956,7 +1956,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/onramp.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/onramp.png",
     "name": "Onramp",
     "category": "Others",
     "description": "Onramp is a fiat-to-crypto payment gateway which helps users seamlessly convert fiat currency to desired cryptocurrency.",
@@ -1968,7 +1968,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/zapper.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/zapper.jpeg",
     "name": "Zapper",
     "category": "DeFi",
     "description": "Your onchain homepage. Track your portfolio, explore trends, and find opportunities across Coins, NFTs, and DeFi",
@@ -1980,7 +1980,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/interface.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/interface.png",
     "name": "Interface",
     "category": "Social",
     "description": "Interface is a social app that extracts users’ data from several sources, including multiple protocols, chains, contracts, and platforms. It then transforms the extracted data into an interactive social feed for the users. With Interface you can check out what activities your friends have taken part in the Web3 space. You can access every social detail about your friends with Interface.",
@@ -1992,7 +1992,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/zora.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/zora.jpeg",
     "name": "Zora",
     "category": "Marketplace",
     "description": "Zora is a marketplace to buy, sell and trade limited-edition goods.\nAll of these goods are launched as tokens.",
@@ -2004,7 +2004,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/acrossprotocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/acrossprotocol.jpeg",
     "name": "AcrossProtocol",
     "category": "Bridges",
     "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to the Ethereum mainnet.",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/stargate.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/stargate.png",
     "name": "stargate",
     "category": "DeFi",
     "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omni chain DeFi.\nWith Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol’s unified liquidity pools with instant guaranteed finality.",
@@ -2028,7 +2028,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/matcha.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/matcha.jpeg",
     "name": "Matcha",
     "category": "DeFi",
     "description": "Matcha is a decentralized exchange, or DEX, meaning that users swap their tokens peer-to-peer through the Ethereum smart contract infrastructure. \n\nYou retain complete custody of your tokens throughout the entire trading process. Additionally, it aggregates the best prices across a growing number of liquidity sources to maximize the value you receive on every trade. All the fees are displayed correctly.",
@@ -2040,7 +2040,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/yield-guild-games.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/yield-guild-games.png",
     "name": "Yield Guild Games",
     "category": "Games",
     "description": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.\nYGG combines the best of the non-fungible token (NFT) and the decentralized finance (DeFi) space, bringing yield farming to game economies while adding value to these virtual worlds by developing the content and economy of these games. YGG want to own and develop assets in the metaverse as we believe that virtual economies will be more valuable than real-world economies over time. At the same time, we want to create value in the virtual world for our guild members to thrive in a virtual environment - the competitive gamers, the artists, and content creators that populate the metaverse.",
@@ -2052,7 +2052,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/0x.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/0x.jpeg",
     "name": "0x",
     "category": "DeFi",
     "description": "0x is a protocol that facilitates the peer-to-peer exchange of Ethereum-based assets. The protocol serves as an open standard and common building block for any developer needing exchange functionality.",
@@ -2064,7 +2064,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/the-graph.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/the-graph.jpeg",
     "name": "The Graph",
     "category": "Infrastructure",
     "description": "The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem. Anyone can build and publish open APIs, called subgraphs, that applications can query using GraphQL to retrieve blockchain data. ",
@@ -2076,7 +2076,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/portals.fi.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/portals.fi.png",
     "name": "Portals.fi",
     "category": "DeFi",
     "description": "Portals is a yield and protocol aggregator API providing transaction bundling, any-to-any swaps, and real-time data for DeFi assets. Portals.fi manages the intricacies associated with composability and ensures that exchanging transferrable assets in web3 is as simple as signing an order, regardless of the complexity (or chain) of the underlying assets. Traders do not need to initiate and babysit multistep transactions, worry about gas, or defend against MEV.",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/curve.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/curve.jpeg",
     "name": "curve",
     "category": "DeFi",
     "description": "Curve is an exchange liquidity pool on ethereum (like Uniswap) designed for - extremely efficient stablecoin trading & low-risk, supplemental fee income for liquidity providers, without an opportunity cost.",
@@ -2100,7 +2100,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/coinbrain.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/coinbrain.png",
     "name": "CoinBrain",
     "category": "DeFi",
     "description": "CoinBrain is the next-gen analytics platform for crypto traders that combines traditional and alternative data to help users identify the hidden gems on the market.",
@@ -2112,7 +2112,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/friends-with-benefits.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/friends-with-benefits.jpeg",
     "name": "Friends With Benefits",
     "category": "Social",
     "description": "Friends with Benefits is the ultimate cultural membership powered by a community of our favorite Web3 artists, operators, and thinkers bound together by shared values & Shared incentives.",
@@ -2124,7 +2124,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/hop.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/hop.jpeg",
     "name": "hop ",
     "category": "Bridges",
     "description": "Hop is a scalable rollup-to-rollup general token bridge. it allows users to send tokens from one rollup or sidechain to another almost immediately without having to wait for the network's challenge period. it works by involving market makers (referred to as bonder) who front the liquidity at the destination chain in exchange for a small fee. this credit is extended by the bonder in the form of htokens which are then swapped for their native token counterpart in an amm. the end result allows users to transfer tokens seamlessly from one network to the next.\n\n\n",
@@ -2136,7 +2136,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/brave.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/brave.jpeg",
     "name": "BRAVE",
     "category": "Tooling",
     "description": "A web and mobile browser integrated with BAT and ERC-20 tokens.\n\nYou’ve paid with your attention. You’ve earned your reward.\n\nBRAVE REWARDS\nGet rewarded for browsing and support your favorite content creators\n\nWHY BRAVE REWARDS\nYour attention is valuable. Earn by viewing privacy-respecting ads and pay it forward to support content creators you love.\nWith your old browser, you paid to browse the web by viewing ads with your valuable attention. You spent your valuable time downloading invasive ad technology that transmitted your precious private data to advertisers — without your consent.\n\nToday, Brave welcomes you to the new Internet. One where your time is valued, your personal data is kept private, and you actually get rewarded for your attention",
@@ -2148,7 +2148,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/thirdweb.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/thirdweb.jpeg",
     "name": "thirdweb",
     "category": "Infrastructure",
     "description": "thirdweb is a complete web3 development framework that provides everything you need to connect your apps and games to decentralized networks.",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/celer-network.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/celer-network.jpeg",
     "name": "Celer Network",
     "category": "Bridges",
     "description": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Message SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.",
@@ -2172,7 +2172,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/chainlink.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/chainlink.jpeg",
     "name": "Chainlink",
     "category": "Infrastructure",
     "description": "To support complex smart contracts on any blockchain, Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations. It connects smart contracts to off-chain data and services in a secure manner. Chainlink significantly enhances smart contract capabilities by allowing access to real-world data and off-chain computing while keeping blockchain technology's security and reliability assurances.",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/opensea.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/opensea.png",
     "name": "opensea",
     "category": "Marketplace",
     "description": "The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items..",
@@ -2196,7 +2196,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mirror.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mirror.jpeg",
     "name": "Mirror",
     "category": "Social",
     "description": "Mirror is the next big change in the long history of symbolic communication. Through a decentralized, user-owned, crypto-based network, Mirror’s publishing platform revolutionizes the way we express, share and monetize our thoughts.",
@@ -2208,7 +2208,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pods.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pods.png",
     "name": "Pods",
     "category": "DeFi",
     "description": "Pods is a decentralized non-custodial options protocol that allows users to create calls and/or puts and trade them in the Options AMM. Pods is implemented in a system of non-upgradable smart contracts on EVM compatible blockchains.",
@@ -2220,7 +2220,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sushiswap.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sushiswap.png",
     "name": "sushiswap",
     "category": "DeFi",
     "description": "Sushi is the home of DeFi. SushiSwap community is building a comprehensive, decentralized trading platform for the future of finance.",
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/safe.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/safe.jpeg",
     "name": "Safe",
     "category": "DeFi",
     "description": "Safe is a smart contract wallet running on several blockchains that requires a minimum number of people to approve a transaction before it can occur (M-of-N). If for example you have 3 main stakeholders in your business, you are able to set up the wallet to require approval from 2 out of 3 (2/3) or all 3 people before the transaction is sent. This assures that no single person could compromise the funds.\nOn top of that, Safe gives you complete self custody over your funds. There is no risk of a bank giving you a hassle for running a crypto business and the smart contract that is deployed is completely trustless and in your control.\n",
@@ -2244,7 +2244,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/compound.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/compound.png",
     "name": "Compound",
     "category": "DeFi",
     "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications",
@@ -2256,7 +2256,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/timeswap.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/timeswap.jpeg",
     "name": "TimeSwap",
     "category": "DeFi",
     "description": "Timeswap is the world’s first fully decentralized -based money market protocol which is self-sufficient, non-custodial, gas efficient and works without the need of  or liquidators. Timeswap’s proprietary 3 variable AMM is motivated by the constant product AMM used by Uniswap. It provides flexibility to the end-user by allowing the user to decide their risk profile and accordingly set the interest rates & collateral for each lending or borrowing transaction. It is brutally minimalistic, gas-efficient, and permission-less allowing anybody to create a money market for any  tokens.",
@@ -2268,7 +2268,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/uniswap.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/uniswap.jpeg",
     "name": "Uniswap ",
     "category": "DeFi",
     "description": "Uniswap is the most liquid AMM-style decentralized exchange in the world, holding over $1.5T+ trade volume distributed across 157M+ traders as of October, 2023.",
@@ -2280,7 +2280,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/syndicate.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/syndicate.jpeg",
     "name": "Syndicate",
     "category": "Infrastructure",
     "description": "Syndicate is a social network and decentralised investing protocol that is changing the way the world creates value. It's a platform for the most promising cryptocurrency projects to raise funds by listing their coins or tokens on the Crypto Exchange.",
@@ -2292,7 +2292,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/api3.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/api3.jpeg",
     "name": "API3",
     "category": "DAO",
     "description": "API3 produce API information through a decentralized blockchain network of dual API-oracle nodes, with pooled insurance for bad replies. It is governed by data consumers & producers and other people of interest. API3 DAOv1 was its 1st governance body, currently still holding a significant treasury.",
@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/unlock-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/unlock-protocol.jpeg",
     "name": "Unlock Protocol",
     "category": "Social",
     "description": "Create locks and place them anywhere you’d like to lock content. Users can purchase memberships as NFT keys that grant access to content, tickets and anything else you’d like to monetize.\n\nhttps://unlock-protocol.com/",
@@ -2316,7 +2316,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/covalent.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/covalent.png",
     "name": "Covalent",
     "category": "Infrastructure",
     "description": "Covalent is the leading modular data infrastructure layer that’s dedicated to solving the Long-Term Data Availability and the verifiability problem in AI.",
@@ -2328,7 +2328,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/goldsky.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/goldsky.png",
     "name": "Goldsky",
     "category": "Infrastructure",
     "description": "Goldsky provides real-time and historical access to data stored on blockchains and lets you transform, enhance, and integrate that data with real-time pipelines to meet your custom needs.",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/via-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/via-protocol.jpeg",
     "name": "Via Protocol",
     "category": "DeFi",
     "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
@@ -2352,7 +2352,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/synapse-bridge.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/synapse-bridge.png",
     "name": "Synapse Bridge",
     "category": "DeFi",
     "description": "Synapse connects blockchains by offering an extensible cross-chain communication protocol that supports assets, smart contract calls, and more. By leveraging Synapse, blockchains can easily and securely interoperate with each other and developers can build truly cross-chain applications including cross-chain DEX, lending platforms, margining systems, derivatives markets, yield aggregators, and much more.",
@@ -2364,7 +2364,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/element.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/element.jpeg",
     "name": "Element",
     "category": "Marketplace",
     "description": "Element is an open digital commodity market that can help you complete the creation, discovery, auction, purchase, and interaction. It is also a social platform that provides value circulation for the crypto digital world in further explanation.",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sound.xyz.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sound.xyz.jpeg",
     "name": "sound.xyz",
     "category": "Marketplace",
     "description": "Sound.xyz is powering the next generation of artists and their communities. Artists can launch a listening party for new song releases with a series of limited edition NFTs to capture more value from their art and more closely connect with their fans. Fans can support their favorite artists, inscribe a public comment on the song, and engage with the artist & other fans.",
@@ -2388,7 +2388,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/biconomy.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/biconomy.jpeg",
     "name": "Biconomy",
     "category": "Infrastructure",
     "description": "Blockchain transactions are made simple. Powerful APIs to abstract away blockchain complexities so Dapps can delight everyday users.",
@@ -2400,7 +2400,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/izumi-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/izumi-finance.jpeg",
     "name": "Izumi Finance",
     "category": "DeFi",
     "description": "A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS).",
@@ -2412,7 +2412,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/beefy-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/beefy-finance.jpeg",
     "name": "Beefy Finance",
     "category": "DeFi",
     "description": "Beefy Finance is a Decentralized Finance (DeFi) Yield Optimizer project, that allows its users to make more crypto with crypto. ",
@@ -2424,7 +2424,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/qidao.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/qidao.png",
     "name": "QiDao",
     "category": "DeFi",
     "description": "QiDao is the first Polygon-based stablecoin protocol. The Protocol enables projects to create stablecoins (miTokens) backed by their tokens as collateral.",
@@ -2436,7 +2436,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sequence.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sequence.png",
     "name": "Sequence",
     "category": "Tooling",
     "description": "Sequence is the all-in-one developer platform + smart wallet that makes building web3 games and applications easy. With a seamless smart wallet, Token and NFT APIs, Indexer, Relayer for gasless transactions, Onramps, Node Gateway, Marketplace Protocol, SDKs for mobile, Unity and Unreal Engine, and more, Sequence gives builders the tools they need to deliver a seamless web3 experience to their users.\n\nSequence is built by Horizon, the creators of Skyweaver, touted as \"the best blockchain game\"; the ERC-1155 semi-fungible token (SFT) standard; and Niftyswap, the decentralized marketplace that makes trading SFTs instant, easy, and secure.",
@@ -2448,7 +2448,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/gauntlet-network.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/gauntlet-network.png",
     "name": "Gauntlet Network",
     "category": "DeFi",
     "description": "Gauntlet is the financial modeling and simulation platform for blockchains.\nDecentralized systems create new challenges for protocol developers, smart contract developers, and asset holders that you don’t see in traditional development and asset management. Gauntlet uses tried and tested techniques from algorithmic trading to simulate crypto networks, inform design decisions, and drive successful design and participation.",
@@ -2460,7 +2460,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kyber-network.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kyber-network.png",
     "name": "Kyber Network",
     "category": "DeFi",
     "description": "Kyber Network functions as a decentralized Ethereum-based solution that is committed to advancing the interchangeability and fluidity of digital asset conversion.",
@@ -2472,7 +2472,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/slingshot.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/slingshot.jpeg",
     "name": "Slingshot",
     "category": "DeFi",
     "description": "Web3 trading platform on Polygon, Arbitrum, Optimism, and more - Connect wallet, start trading.",
@@ -2484,7 +2484,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/volmex-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/volmex-finance.jpeg",
     "name": "Volmex Finance",
     "category": "DeFi",
     "description": "volmex.finance is a protocol for tokenized volatility built on Ethereum. The protocol enables VIX-like indices for crypto assets and trading functionality powered by Ethereum.\nUse cases of volmex.finance are:\n1. Traders can purchase volatility tokens to express a view on market volatility\n2. Volatility tokens can be used to hedge out risks from other derivatives venues\n3. Volatility arbitrage opportunities between other derivatives venues and Volmex\n4. DeFi protocols can integrate and reference Volmex volatility indices ",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mahadao.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mahadao.jpeg",
     "name": "MahaDAO",
     "category": "DAO",
     "description": "MahaDAO is a community-powered, decentralized autonomous organization on a mission to empower billions to preserve their purchasing power through the world’s first valuecoin, ARTH.\nMahaDAO has a dual token system - governance token MAHA, and the value coin ARTH. ARTH maintains its purchasing power regardless of which direction the market moves. More about ARTH can be read on documentation for ARTH valuecoin here. ",
@@ -2508,7 +2508,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/manifold.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/manifold.jpeg",
     "name": "Manifold",
     "category": "NFTs",
     "description": "Manifold. xyz is the online home of a new Canada-based NFT minting company built on Ethereum that aims to help artists fully own their NFTs with the use of smart contract technology.",
@@ -2516,7 +2516,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/dodo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dodo.jpeg",
     "name": "DODO",
     "category": "DeFi",
     "description": "DODO is a decentralized trading platform that uses the innovative Proactive Market Maker (PMM) algorithm to provide efficient on-chain liquidity for Web3 assets, making it easy for everyone to issue and trade these assets.",
@@ -2528,7 +2528,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sudoswap.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sudoswap.jpeg",
     "name": "Sudoswap",
     "category": "Marketplace",
     "description": "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves. Liquidity providers (LPs) can deposit into single-sided buy or sell pools, or provide both sides with a spread to capture fees.\n\nThe base unit of the protocol is the LSSVMPair which can hold NFTs, tokens, or both. End users then interact with LSSVMRouter to swap across multiple pools and manage their approvals on one contract.\n",
@@ -2540,7 +2540,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/openocean.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/openocean.png",
     "name": "OpenOcean",
     "category": "DeFi",
     "description": "Open Ocean is a cross-chain DEX aggregator that integrates liquidity sources across a wide range of blockchains into one trading interface and provides users with a one-stop trading solution. OpenOcean uses an intelligent routing algorithm that finds the most efficient routes for exchange from over 185 aggregated sources. In addition to aggregation and swaps, OpenOcean will continue to aggregate derivatives products and launch its own intelligent wealth management services.",
@@ -2552,7 +2552,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/debridge.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/debridge.jpeg",
     "name": "deBridge",
     "category": "DeFi",
     "description": "deBridge is on a mission to securely unite every blockchain and bring seamless interoperability to Web3. Since launching its cross-chain DEX, deSwap, deBridge has built a go-to generic messaging infrastructure and a suite of solutions enabling Web3 teams to build powerful cross-chain applications across DeFi, NFTs, Metaverses, GameFi, and more.\n",
@@ -2564,7 +2564,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/mean-finance.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/mean-finance.png",
     "name": "Mean Finance",
     "category": "DeFi",
     "description": "Mean Finance is the state-of-the-art DCA open protocol that enables users or dapps to Dollar Cost Average (DCA) any ERC20 to any other ERC20 with their preferred period frequency without sacrificing decentralization or giving up personal information to any centralized parties. Mean Finance does all this by leveraging Chainlink and Uniswap V3 TWAP oracles.\nIt enables anyone to set up actions like \"Swap 10 USDC for WBTC every day, for 30 days\". These token swaps will then occur regardless of the asset's price and at regular intervals, reducing the impact of volatility on the investment. ",
@@ -2576,7 +2576,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/rabbit-hole.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/rabbit-hole.png",
     "name": "Rabbit Hole",
     "category": "Tooling",
     "description": "RabbitHole rewards users with a project's tokens for completing on-chain tasks that are value-additive to protocols with built-in Sybil resistance, making it the best crypto-native paid acquisition channel in Web3.",
@@ -2588,7 +2588,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/balancer.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/balancer.png",
     "name": "Balancer",
     "category": "DeFi",
     "description": "Balancer is a protocol for programmable liquidity. \n\nA Balancer Pool is an automated market maker with certain key properties that cause it to function as a self-balancing weighted portfolio and price sensor.\n\nBalancer turns the concept of an index fund on its head: instead of paying fees to portfolio managers to rebalance your portfolio, you collect fees from traders, who rebalance your portfolio by following arbitrage opportunities.\n",
@@ -2600,7 +2600,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/harvest.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/harvest.png",
     "name": "Harvest",
     "category": "DeFi",
     "description": "Harvest yield farming can offer high interest rates, but it is becoming hard for smaller farmers to access:\n\nTransactions costs are increasing, and it's prohibitively expensive to move between farming opportunities and regularly harvest to compound your yields.\n\n? Tracking and responding to yield farming opportunities can be a full-time job.\n\n? Smart contracts are hard to audit and bugs can result in lost funds.\n\nHarvest Finance addresses this by compounding yield farming rewards automatically wherever possible to maximize yield, and managing and developing new farming strategy relentlessly.\n\nHarvest takes care of gas costs, APY tracking, strategy development, and auditing.",
@@ -2612,7 +2612,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sablier.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sablier.jpeg",
     "name": "Sablier",
     "category": "DeFi",
     "description": "The protocol for real-time finance on Ethereum.\nSablier is compatible with digital currencies like DAI, USDC, and most other ERC20 tokens. ",
@@ -2624,7 +2624,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/0xsplits.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/0xsplits.jpeg",
     "name": "0xSplits",
     "category": "Infrastructure",
     "description": "0xSplits is a trustless, composable, and gas-efficient protocol for splitting onchain income. Whenever a Split receives funds, each recipient gets their share. Simple enough for friends, secure enough for anons.",
@@ -2636,7 +2636,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/sipher.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/sipher.png",
     "name": "SIPHER",
     "category": "Games",
     "description": "Sipher combines PvE and PvP gameplay with blockchain technology to create an open world social experience. Explore, Battle & Earn!",
@@ -2648,7 +2648,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/kiwi-pad-bot.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kiwi-pad-bot.png",
     "name": "Kiwi Pad Bot",
     "category": "DeFi",
     "description": "Kiwi Pad Bot is the first decentralized AI launchpad bot on EVM compatible chains such as Ethereum, BNB, Base, Polygon, Avalanche, Arbitrum, Optimism, etc. The telegram bot consists of an IDO Launchpad, Token Factory, Non-custodial Multi-Chain Wallet, LP manager, LP locker, Token Locker, and Web3 Job Market. It revolutionizes the blockchain ecosystem by making decentralized finance (DeFi) accessible and manageable through a single Telegram Bot. By addressing the complexity of wallet management, token creation, presales, liquidity pools, and job markets, KiwiPad Bot democratizes blockchain technology for users of all levels and all jurisdiction. It offers a seamless, instant, and free solution for DeFi operations, eliminating barriers and accelerating project development and engagement. Our vision is to empower users to effortlessly navigate and leverage blockchain technology, fostering a more inclusive and efficient DeFi landscape.",
@@ -2660,7 +2660,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/formo.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/formo.png",
     "name": "Formo",
     "category": "Others",
     "description": "Formo is a blockchain analytics platform that gives product and marketing teams in web3 superpowers. Spend less time building analytics, and more time building products. Formo helps teams understand and use onchain data to engage active users in web3.\n\nFormo helps you from your first user to when your product is everything it could be. Harness token-gated forms, wallet intelligence, and onchain product analytics to turbocharge your growth.\n\nWe believe web3-native tools are critically needed for consumer crypto apps to cross the chasm. Our mission is to support the next generation of onchain builders with web3-native analytics infrastructure, and help teams make sense of onchain user behaviour.",
@@ -2672,7 +2672,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/switchboard.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/switchboard.jpeg",
     "name": "Switchboard",
     "category": "DeFi",
     "description": "Plug into the On‑Chain Economy\nExperience the power of Switchboard, a permissionless oracle network that seamlessly connects dapps to real-world data.\n\n",
@@ -2684,7 +2684,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/time.fun.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/time.fun.jpeg",
     "name": "Time.fun",
     "category": "Social",
     "description": "Tokenize your time, in minutes, and let fans trade & redeem time with you. Exclusively on Base.",
@@ -2696,7 +2696,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/eth-gas-tracker.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/eth-gas-tracker.png",
     "name": "ETH Gas Tracker",
     "category": "DeFi",
     "description": "Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience",
@@ -2704,7 +2704,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/assetdash.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/assetdash.jpeg",
     "name": "Assetdash",
     "category": "DeFi",
     "description": "The best portfolio tracker + rewards program in crypto • NFTs • Cryptos • DeFi",
@@ -2716,7 +2716,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/onebalance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/onebalance.jpeg",
     "name": "OneBalance",
     "category": "Tooling",
     "description": "Bringing Credible Accounts to Web3. OneBalance is a framework for creating and managing Credible Accounts.",
@@ -2728,7 +2728,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/radom.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/radom.png",
     "name": "Radom",
     "category": "DeFi",
     "description": "Easily adopt crypto payments for your business with Radom's straightforward code integration or no-code solutions.",
@@ -2740,7 +2740,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/hot-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/hot-protocol.jpeg",
     "name": "Hot Protocol",
     "category": "DeFi",
     "description": "Chain Signature protocol facing the users. Seamless web3 access, seamless cross-chain transactions, seamless gas covering. Betanet is live",
@@ -2752,7 +2752,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/polymer.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/polymer.jpeg",
     "name": "Polymer",
     "category": "Infrastructure",
     "description": "The Network Layer for Interoperability. Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s using the Inter-Blockchain Communication Protocol.",
@@ -2764,7 +2764,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/aarc.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/aarc.jpeg",
     "name": "Aarc",
     "category": "Tooling",
     "description": "Modular protocol simplifying chain abstraction for dapps.",
@@ -2776,7 +2776,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/pixotchi.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pixotchi.png",
     "name": "Pixotchi",
     "category": "Games",
     "description": "A captivating pixel art gardening game on Base's L2 Ethereum, featuring mobile-friendly PWA, strategic gameplay, and $SEED token integration. \n\n*Currently in Private Beta*",
@@ -2788,7 +2788,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/geist-network.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/geist-network.jpeg",
     "name": "Geist Network",
     "category": "Games",
     "description": "Geist is an Ethereum layer-3 gaming network where all games on the network will be centered around, or briefly include, the Aavegotchi IP. Only games approved by Pixelcraft Studios or AavegotchiDAO can deploy on Geist. Geist Members will enjoy exclusive access to reward campaigns across all games on the chain.",
@@ -2800,7 +2800,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/$meelay.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/$meelay.jpeg",
     "name": "$MEELAY",
     "category": "DeFi",
     "description": "meelay is here to inflict financial violence on leftards and make argentina great again. if you missed buying the ARSUSD generational bottom, $meelay is for you",
@@ -2812,7 +2812,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/swaye.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/swaye.png",
     "name": "Swaye",
     "category": "DeFi",
     "description": "Create and trade event tokens. Be rewarded for being right and early.",
@@ -2824,7 +2824,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/chainsight.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/chainsight.png",
     "name": "Chainsight ",
     "category": "Infrastructure",
     "description": "Projects can deploy custom indexers, algorithms, and oracles as LEGO blocks onto the network which can then be used by anyone across every chain: Custom Data Feeds, Data LEGO Model, Custom Dashboards, Bridge-less Data Writing and much more.",
@@ -2836,7 +2836,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cvex.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cvex.png",
     "name": "CVEX",
     "category": "DeFi",
     "description": "CVEX is a permissionless futures and options trading protocol.",
@@ -2848,7 +2848,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/farstar.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/farstar.jpeg",
     "name": "Farstar",
     "category": "Games",
     "description": "Play to earn in Farstar\nAll user farcaster is a Alien",
@@ -2856,7 +2856,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/tea-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/tea-protocol.jpeg",
     "name": "Tea Protocol",
     "category": "DAO",
     "description": "Decentralized technology protocol, built on \n@Base\n, that enables OSS developers to be rewarded for their software contributions 💬 Forum: https://forum.tea.xyz",
@@ -2868,7 +2868,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/heyelsaai.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/heyelsaai.jpeg",
     "name": "HeyElsaAI",
     "category": "DeFi",
     "description": "Harness the power of AI in Crypto with Elsa, your crypto co-pilot. Uncover opportunities, trade smarter, and maximise returns, all with unparalleled ease and safety. ",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/stakekit.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/stakekit.jpeg",
     "name": "StakeKit",
     "category": "DeFi",
     "description": "StakeKit is a powerful API & widget for self-custodial staking. It supports the most popular tokens and chains out of the box.",
@@ -2892,7 +2892,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cookbook.dev.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cookbook.dev.jpeg",
     "name": "Cookbook.dev",
     "category": "Tooling",
     "description": "Find any smart contract, and Build your project faster — 1,000+ smart contracts, web3 resources, and AI assistants to simplify building and learning.\n\nCookbook is an open-source smart contract registry where developers can find solidity primitives, libraries, and smart contracts for protocols across EVM-compatible blockchains that rely on the solidity programming language. \n\nThe cookbook integrates with various blockchain-native developer tooling to make it the easiest and fastest way to start development work on smart contracts.",
@@ -2904,7 +2904,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/echo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/echo.jpeg",
     "name": "Echo",
     "category": "Tooling",
     "description": "Invest in early-stage cryptocurrency projects and new startups alongside notable angels. ",
@@ -2916,7 +2916,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/anzen.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/anzen.jpeg",
     "name": "Anzen",
     "category": "DeFi",
     "description": "Anzen is a decentralized finance platform offering USDz, a stablecoin backed by real-world assets.",
@@ -2928,7 +2928,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/cardex.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cardex.png",
     "name": "Cardex",
     "category": "Marketplace",
     "description": "Cardex is the first-ever physical collectibles launchpad built for traders. High-end collectibles can be tokenized like RWA Memecoin and users can trade collectible shares on price bonding curve and earn yield. ",
@@ -2940,7 +2940,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/stp-network.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/stp-network.png",
     "name": "STP Network",
     "category": "Tooling",
     "description": "Building and scaling an identity layer for\nAutonomous Worlds.",
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/figmint.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/figmint.jpeg",
     "name": "Figmint",
     "category": "Social",
     "description": "Create sharable designs onchain. Mint. Share. Collect. Refer. Bookmark. Remix. A design community sharing their work.",
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/universal.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/universal.jpeg",
     "name": "Universal",
     "category": "Tooling",
     "description": "Universal is a wrapped asset protocol designed to enable trading for any token, on any chain.",
@@ -2976,7 +2976,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/soul-labs.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/soul-labs.jpeg",
     "name": "Soul Labs",
     "category": "DeFi",
     "description": "Soul facilitates omni-chain lending through unified semantics across multiple networks. With Soul, users can borrow from any lending protocol on any blockchain, consolidating their borrowing power.",
@@ -2988,7 +2988,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/threebalance.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/threebalance.png",
     "name": "Threebalance",
     "category": "DeFi",
     "description": "Threebalance is a portfolio rebalancing tool, where users can easily swap multiple tokens in one flow effectively changing their exposure. It tracks your crypto portfolio, calculates the exposure in percentages and allows you to trade tokens in one place, without manual switching between pairs or adding contract addresses. ",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/base-colors.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/base-colors.png",
     "name": "Base Colors",
     "category": "NFTs",
     "description": "The NFT collection for every color on the internet.",
@@ -3012,7 +3012,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/nifty-island.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/nifty-island.jpeg",
     "name": "Nifty Island",
     "category": "Games",
     "description": "Nifty Island is a free-to-play social game world where players and communities can build their own island, play games together, and bring their NFTs to life.",
@@ -3024,7 +3024,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/d3fenders.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/d3fenders.jpeg",
     "name": "D3fenders",
     "category": "DeFi",
     "description": "D3fenders is a web3 security company whose mission is to be the global leader in securing users digital assets from wallet drains and digital threats. We're dedicated to creating secure platforms built on our trusted vault system, enabling users to safeguard their digital assets with confidence.\n\nWe provide unmatched protection against wallet drains and seed phrase compromise, ensuring a safer online experience.\n\nKey Features\n\nWallet Drain Protection\nWe offer protection from single instance drains and seed phrase compromise.\n\nEmpowering Everyone\nAffordable Web3 security for all that won't break the bank! Each locking event is only $4.\n\nHolders of D3fenders Digital Collectibles have unlimited use access.\n\nEmergency Migration\nMigrate your assets regardless of gas in your wallet. Our migration tool creates freedom and security in a dangerous web3 space.\n\nDecentralized Vault System\nMulti-layered Authentication ensures ownership over your assets via our self-custodial 2fa security layer.",
@@ -3036,7 +3036,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/state-pvp.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/state-pvp.png",
     "name": "State PVP",
     "category": "Games",
     "description": "We have launched a competitive game on the base blockchain. The game is called State PVP. The rules of the game are simple. There are 50 states, each has its own token. Every week the state with the highest market cap chooses another state to rug-pull, and takes 100% of its ETH to distribute. The game plays until only one state remains\n\nThe game is launching in about 60 days, and we are now trying to find communities we can grow with. Your site looked great for listing our project, so hoping we can collab on that\n",
@@ -3048,7 +3048,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/meridian-lend.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/meridian-lend.jpeg",
     "name": "Meridian Lend",
     "category": "DeFi",
     "description": "Meridian is a non-custodial, decentralised financial trading platform that offers interest-free stable coin lending, leverage trading and zero slippage swaps all in one place. \n\nWith Meridian users can trade whitelisted crypto assets with up to 50x leverage, obtain interest-free overcollateralised loans against ETH and earn interest, fees and rewards for supporting the protocol.",
@@ -3060,7 +3060,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/unofficial.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/unofficial.png",
     "name": "Unofficial",
     "category": "Social",
     "description": "Discover new friends, communities, and more.",
@@ -3068,7 +3068,7 @@
     "socials": { "x": "", "discord": "", "telegram": "" }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/joba-network.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/joba-network.png",
     "name": "Joba Network",
     "category": "Social",
     "description": "The identity network for the future of work - build your onchain resume, build reputation, and unlock opportunities. Manage your global reputation with  verifiable credentials  supercharged by Blockchain & AI.",
@@ -3080,7 +3080,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/bored.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bored.jpeg",
     "name": "BORED",
     "category": "Games",
     "description": "$BORED is a place for people who are bored of crypto’s “ordinary” same ol’ b.s. and want to build something extraordinary. \n\nUntil now, your options were to gamble in the memecoin casino, invest in crypto vaporware projects that use intellectual jargon to deceive buyers, or furiously day-trade in zero-sum games - staring at charts, and consuming yourself with stress and anxiety. \n\nWe’re none of that. We are an open community with an open, democratic treasury that quite literally funds boredom. Join the discord to learn how you can contribute.",
@@ -3092,7 +3092,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/aperture-finance.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/aperture-finance.jpeg",
     "name": "Aperture Finance",
     "category": "DeFi",
     "description": "AI Powered Intents, the future of DeFi UX.",
@@ -3104,7 +3104,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/quillshield.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/quillshield.png",
     "name": "QuillShield",
     "category": "Infrastructure",
     "description": "QuillShield is a comprehensive Web3 DevSecOps platform providing a spectrum of security solutions tailored for the lifecycle of smart contracts—from development to post-deployment. ",
@@ -3116,7 +3116,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/joystream.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/joystream.png",
     "name": "Joystream",
     "category": "NFTs",
     "description": "Joystream is a video platform protocol; it does for video publishing what e-mail did for mail, and Bitcoin did for money. On Joystream, all profiles, videos and social interactions live on a dedicated high throughput public blockchain. A user-controlled DAO funds creators and builders, and operates the storage and content delivery infrastructure. Developers can therefore build new applications on an existing open network effect and infrastructure, with APIs they can trust forever, unlike the current closed incumbents. This empowers them to experiment with new features, algorithms and policies that can delight creators and consumers in new ways, unlike today, where everyone is stuck with a single experience controlled by one company. Creators can build their audience and business on a solid foundation. They can sell video NFTs to capture more value from their greatest fans. And they can also issue a dedicated revenue share creator token to finance their creative projects.",
@@ -3128,7 +3128,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/virtuals-protocol.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/virtuals-protocol.jpeg",
     "name": "Virtuals Protocol",
     "category": "Games",
     "description": "VIRTUAL Protocol aligns incentives for the decentralized creation and monetization of AI agents for every virtual interaction (gaming, metaverses, online interactions, or beyond).",
@@ -3140,7 +3140,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/omo.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/omo.jpeg",
     "name": "OMO",
     "category": "DeFi",
     "description": "OMO is a cross-chain aggregation protocol with no liquidity constraints and zero slippage. It is also an innovative and open cross-chain solution. Based on CCTP (Cross-Chain Transfer Protocol), OMO is able to burn native USDC on the source chain and mint the same amount of native USDC on the target chain. For traders, it not only reduces the cross-chain transaction loss to 0, but also breaks through the limitation of liquidity pools. For the protocol, it not only reduces the security risk of cross-chain assets, but also greatly improves the utilization rate of funds. In addition to bridging USDC on different chains, it will also directly aggregate as many DEXs as possible to give users the optimal route, allowing users to have more asset choices on the source chain and the target chain (for example: allowing users to swap $ETH on Ethereum for $ARB on Arbitrum).",
@@ -3152,7 +3152,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/valleydao.jpeg",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/valleydao.jpeg",
     "name": "ValleyDAO",
     "category": "DAO",
     "description": "ValleyDAO is an open, global community offering funding and translational support for synthetic biology research.",
@@ -3164,7 +3164,7 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.chipay.app/blockchain/base/superfluid.png",
+    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/superfluid.png",
     "name": "Superfluid",
     "category": "Infrastructure",
     "description": "Superfluid is a smart contract framework on EVM networks, enabling you to move assets on-chain following predefined rules called agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real time! No further transactions required- it works like magic ✨",
