@@ -37,15 +37,6 @@
         "main": "https://dapp-lists.getcosine.app/blockchain/ethereum/dapplist.json"
       }
     },
-    "fantom": {
-      "info": {
-        "logo": "https://dapp-assets.getcosine.app/blockchain/fantom/logo.png",
-        "summary": "https://dapp-lists.getcosine.app/blockchain/fantom/info.json"
-      },
-      "dapplist": {
-        "main": "https://dapp-lists.getcosine.app/blockchain/fantom/dapplist.json"
-      }
-    },
     "optimism": {
       "info": {
         "logo": "https://dapp-assets.getcosine.app/blockchain/optimism/logo.png",
