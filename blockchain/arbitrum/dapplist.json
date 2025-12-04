@@ -130,19 +130,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/layer3.jpeg",
-    "name": "Layer3",
-    "category": "Tooling",
-    "description": "Discover the world of crypto like never before. Our interactive Quests make learning and exploring crypto fun, engaging, and rewarding. 🟨",
-    "url": "https://layer3.xyz/quests",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/layer3xyz",
-      "discord": "https://discord.com/invite/layer3",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/jumper-exchange.jpeg",
     "name": "Jumper Exchange",
     "category": "DeFi",
@@ -182,32 +169,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/redstone.png",
-    "name": "RedStone",
-    "category": "DeFi",
-    "description": "RedStone is an Oracle service offering data feeds that are frequently updated, reliable, and diverse, serving decentralized applications (dApps) and smart contracts on multiple Layer 1 (L1) and Layer 2 (L2) blockchain platforms.",
-    "url": "https://redstone.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/redstone_defi",
-      "discord": "https://discord.com/invite/PVxBZKFr46",
-      "telegram": "https://t.me/redstonefinance/"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/plume-network.jpeg",
-    "name": "Plume Network",
-    "category": "Blockchain",
-    "description": "Plume is the first modular L2 blockchain dedicated for all real-world assets (RWAs) that integrates asset tokenization and compliance providers directly into the chain. Our mission is to simplify the convoluted processes of RWA project deployment and offer investors a blockchain ecosystem to cross-pollinate and invest in various RWAs. In addition, Plume enables RWA composability through its thriving DeFi applications and provides access to high-quality buyers to increase liquidity for all tokenized RWAs.",
-    "url": "https://miles.plumenetwork.xyz/join?invite=PLUME-LNZK6",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/plumenetwork",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/elixir.jpeg",
     "name": "Elixir",
     "category": "DeFi",
@@ -229,32 +190,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/alt_layer",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/light.png",
-    "name": "Light",
-    "category": "Tooling",
-    "description": "EVM chain abstraction protocol unifying all chains as one.",
-    "url": "https://light.so/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/LightDotSo",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/space-id.jpeg",
-    "name": "Space ID",
-    "category": "Games",
-    "description": "One Place for Digital Identities: SPACE ID is building a hub for you to discover, register, trade and manage web3 domains in one stop.",
-    "url": "https://space.id",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/SpaceIDProtocol",
       "discord": "",
       "telegram": ""
     }
@@ -296,32 +231,6 @@
       "x": "https://x.com/IntractCampaign",
       "discord": "https://discord.com/invite/faXj8Yzua6/",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/olive-network.png",
-    "name": "Olive Network",
-    "category": "Blockchain",
-    "description": "Olive Network is a universal aggregated liquidity layer across all L1s & L2s with gasless transactions for onboarding next billion users.",
-    "url": "https://www.olivenetowrk.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xOlive",
-      "discord": "https://discord.gg/oxolive",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/robin-protocol.jpeg",
-    "name": "Robin Protocol",
-    "category": "DeFi",
-    "description": "Innovative solution for recovering tokens and claiming airdrops from compromised EVM wallets",
-    "url": "https://robin-protocol.com/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Robin_protocol",
-      "discord": "",
-      "telegram": "https://t.me/Robin_protocol"
     }
   },
   {
@@ -438,19 +347,6 @@
     "socials": {
       "x": "https://x.com/nansen_ai",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/rivera-money.png",
-    "name": "Rivera Money",
-    "category": "DeFi",
-    "description": "Rivera Money is a permissionless liquidity management protocol that transforms concentrated positions into DeFi-composable yield tokens.",
-    "url": "https://app.rivera.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Rivera_Money_",
-      "discord": "http://discord.gg/DkdZ5DyJga",
       "telegram": ""
     }
   },
@@ -594,19 +490,6 @@
     "socials": {
       "x": "https://x.com/noves_fi",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/spark.jpeg",
-    "name": "Spark",
-    "category": "DeFi",
-    "description": "Spark is a predicate-based central limit order book.",
-    "url": "https://sprk.fi",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/sprkfi",
-      "discord": "https://discord.gg/Nz9VZQrSNH",
       "telegram": ""
     }
   },
@@ -1105,19 +988,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/mozaic-finance.png",
-    "name": "Mozaic Finance",
-    "category": "DeFi",
-    "description": "What is Mozaic?\nSimply put, Mozaic provides automatic yield farming using AI and Layer-Zero technology.\nBut it's much more than that. \nMozaic is a community founded project, bootstrapped by a highly experienced team with the goal of bringing AI into the hands of everyday users.\nObjective\nThe AI, Archimedes has one objective:\nTo save users time and maximize their profitability. \nHe does this by removing the indecisions involved with yield farming as he compounds and rebalances assets to the highest APY pools every hour. \nArchimedes thinks like a trader. He is programmed with the core team's institutional grade technology and proprietary trading strategies. \nWhy is Mozaic?\nThe saturation of choice and the difficulty of discovering yield opportunities has and continues to be a major hurdle for the average cryptocurrency holder, adding unnecessary levels of complexity to the simple question of; \"Where can I stake my tokens to achieve the highest return?\"\nMozaic eliminates this problem by making the most efficient yield farming decisions on behalf of the end user.",
-    "url": "https://mozaic.finance",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Mozaic_Fi",
-      "discord": "https://discord.gg/mozaic",
-      "telegram": "https://t.me/+hW8qmozF3tdjOThl"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/zerodev.jpeg",
     "name": "ZeroDev",
     "category": "DeFi",
@@ -1183,19 +1053,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/spool.jpeg",
-    "name": "Spool",
-    "category": "DeFi",
-    "description": "The Spool Protocol serves as DeFi middleware and aggregator. It allows users to participate in a subset of yield generating protocols in a risk diversified and algorithmically efficient fashion. The protocol allocates users' investments according to their preferences of strategy and risk, and rebalances them according to changing risk and yield data. \n\nSpool is controlled by its DAO via off-chain, Snapshot voting, and executes that on-chain through a treasury multisig Safe. Its 1.0 version, PreSpool, is also presented here for its Snapshot decisions.",
-    "url": "http://www.spool.fi",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/spoolfi",
-      "discord": "https://discord.gg/kCDC7BWxrw",
-      "telegram": "https://telegram.me/SpoolFi"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/gateway-fm.jpeg",
     "name": "Gateway FM",
     "category": "Infrastructure",
@@ -1206,19 +1063,6 @@
       "x": "https://x.com/gateway_eth",
       "discord": "",
       "telegram": "https://t.me/gateway_fm"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/fortytwo.jpeg",
-    "name": "FortyTwo",
-    "category": "DeFi",
-    "description": "A Frontend for an Interchain World",
-    "url": "https://www.fortytwo.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/FortyTwo_money",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -1365,32 +1209,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/tapioca.png",
-    "name": "Tapioca",
-    "category": "DeFi",
-    "description": "First omnichain money market. borrow, lend, leverage up across 20+ chains.",
-    "url": "https://beta.tapioca.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/tapioca_dao",
-      "discord": "https://discord.com/invite/tapiocadao",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption.",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/onramper.png",
     "name": "Onramper",
     "category": "Others",
@@ -1413,19 +1231,6 @@
     "socials": {
       "x": "https://x.com/okx",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/mintdao.jpeg",
-    "name": "MintDAO",
-    "category": "Marketplace",
-    "description": "The MintDAO is a project released on the Terra network. MintDAO aims to establish a digital NFT minting platform for third-party projects to create NFT collections with utilities to reward the NFT holder. Each NFT collection will have a rewarding system generated in a unique fashion tailored to them, which will benefit each project and community.",
-    "url": "https://mintdao.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/mintdao_io",
-      "discord": "https://discord.gg/BRF2PEetea",
       "telegram": ""
     }
   },
@@ -1453,19 +1258,6 @@
       "x": "https://x.com/taskonxyz",
       "discord": "https://discord.com/invite/tjszFr7wHz",
       "telegram": "https://t.me/TaskOnOfficial"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/cask-protocol.jpeg",
-    "name": "Cask Protocol",
-    "category": "DAO",
-    "description": "Cask is a decentralized non-custodial protocol for automating the flow of money in web3. The Cask base layer implements a job scheduling and queuing system that can handle many types of automated money flows. The foundation is built using Chainlink Keepers with flow-specific contracts operating above.",
-    "url": "https://www.cask.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/caskprotocol",
-      "discord": "https://discord.com/invite/mbmFKr9xeu",
-      "telegram": "https://t.me/CaskProtocol"
     }
   },
   {
@@ -1729,32 +1521,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/kaijucards.png",
-    "name": "KaijuCards",
-    "category": "Games",
-    "description": "Tactical roguelite deckbuilder for browser and mobile.\nCollect your Kaiju and embark on an enchanting roguelite adventure through the land of Good Earth. Create powerful synergies by uniting your Kaiju in 3-character parties, earn rare items as you fight through dungeons, and build the ultimate deck to save Good Earth from the evil Lich Lord.",
-    "url": "https://www.kaiju.cards/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/KaijuCards",
-      "discord": "https://discord.gg/kaijucards",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/moonpay.jpeg",
     "name": "MoonPay",
     "category": "Infrastructure",
@@ -1846,19 +1612,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/promethium.png",
-    "name": "Promethium",
-    "category": "DeFi",
-    "description": "Promethium is a lending and borrowing optimizer that's always on the hunt for the best rates, rebalancing your deposits and refinancing your loans, so you are always getting more on your lending positions and spend less when borrowing. \nRuns in public beta mode on Arbitrum mainnet.",
-    "url": "https://promethium.finance",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/promethiumpro",
-      "discord": "https://discord.gg/MEUK34WyXv",
-      "telegram": "https://t.me/promethiumpro"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/satellite.png",
     "name": "Satellite",
     "category": "DeFi",
@@ -1868,19 +1621,6 @@
     "socials": {
       "x": "",
       "discord": "https://discord.com/invite/aRZ3Ra6f7D",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/the-beacon.jpeg",
-    "name": "The Beacon",
-    "category": "Games",
-    "description": "The Beacon is a free-to-play fantasy action roguelite RPG. Players enter a unique dungeon every time, battle monsters, and upgrade their combat prowess and style along the way. Players will need to have good timing and reflexes to defeat the challenges they face in real-time.\n",
-    "url": "https://app.thebeacon.gg/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/The_Beacon_GG",
-      "discord": "https://discord.gg/thebeacon",
       "telegram": ""
     }
   },
@@ -1895,19 +1635,6 @@
       "x": "https://x.com/Outposts_io",
       "discord": "https://discord.gg/JysxpFSBJs",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/metamax.png",
-    "name": "MetaMax",
-    "category": "DeFi",
-    "description": "MetaMax is a multichain aggregator of DEX aggregators that sources prices from all aggregators such as Matcha, Paraswap, 1inch, and more. It then offers you the best price available among all of them for desired token swaps.",
-    "url": "https://metamax.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MetaMax_labs",
-      "discord": "https://discord.gg/T2XvCjNCVc",
-      "telegram": "https://t.me/MetaMaxAnnouncement"
     }
   },
   {
@@ -1934,19 +1661,6 @@
       "x": "https://x.com/r3vl_xyz",
       "discord": "https://discord.gg/aDnBWQ2rhx",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/synthr.png",
-    "name": "Synthr",
-    "category": "DeFi",
-    "description": "SYNTHR: DeFi’s first-ever zero-slippage omnichain liquidity layer.\n\n👉 Zero-slippage cross-chain swaps for users.\n👉 Capital-efficient and secure liquidity layer for builders and applications.\n👉 Real multi-chain yield backed by protocol revenue for liquidity providers.\n\n⚙️ Powered by: Axelar, LayerZero, Pyth, and Supra Oracles.",
-    "url": "https://www.synthr.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/synthr_defi",
-      "discord": "https://discord.com/invite/KkUzFPanf5",
-      "telegram": "https://t.me/synthrcommunitychannel"
     }
   },
   {
@@ -1986,19 +1700,6 @@
       "x": "https://x.com/kookexchange",
       "discord": "https://discord.gg/eQV6EWvRPj",
       "telegram": "https://t.me/+9UHkptkGIZNhNzA8"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/magicswap.jpeg",
-    "name": "Magicswap",
-    "category": "DeFi",
-    "description": "Magicswap is the first AMM in crypto to support pools for ERC-20s and NFTs through a single router. MagicSwap enables trading of all items within a game economy (fungible and non-fungible) rather than requiring users to use Uniswap and NFT marketplaces separately. At launch, the protocol will support ERC-20s, ERC-721s, and ERC-1155s with the ability to quickly add new NFT types using our custom vaults.\n\nMagicSwap includes automated royalties that can be set for each pool–a feature that is directly integrated into the pool creation process. The protocol will be incorporated into the Trove marketplace over time, enabling users to use the swap without having to interact with the AMM itself.",
-    "url": "https://magicswap.lol/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Magicswap_",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -2197,19 +1898,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/casten.jpeg",
-    "name": "Casten",
-    "category": "DeFi",
-    "description": "Casten is reDeFining global credit markets by enabling investors of all sizes to earn competitive yields from lending to fast growing Fintechs that enable financial inclusion of Micro, Small and Medium businesses globally\n\nCasten provides exposure to yields from real-world lending. Investments are collateralized off-chain, which makes them distinct from the volatile digital assets",
-    "url": "https://appv2.casten.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/casten_labs",
-      "discord": "https://discord.gg/TDdv4kK6Ry",
-      "telegram": "https://t.me/castenlabs"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/metatrust.jpeg",
     "name": "MetaTrust",
     "category": "Infrastructure",
@@ -2337,19 +2025,6 @@
       "x": "https://x.com/DuneAnalytics",
       "discord": "https://discord.gg/ErrzwBz",
       "telegram": "https://t.me/dune_updates"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/redefined.jpeg",
-    "name": "Redefined",
-    "category": "Tooling",
-    "description": "Making Web3 interactions simple and convenient for everyone, everywhere.",
-    "url": "https://redefined.org/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/redefined__org",
-      "discord": "https://discord.com/invite/hcpWsw2Kfb",
-      "telegram": ""
     }
   },
   {
@@ -2886,19 +2561,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/defragdao.jpeg",
-    "name": "DeFragDAO",
-    "category": "DeFi",
-    "description": "DeFrag is an NFT lending protocol launched on Arbitrum and focused on gaming NFTs within the TreasureDAO ecosystem. \nDeFrag makes borrowing easy, you deposit NFTs → Borrow USDC → Repay anytime.",
-    "url": "https://defrag.fi",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/DeFragDAO",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/unlock-protocol.jpeg",
     "name": "Unlock Protocol",
     "category": "Social",
@@ -2947,19 +2609,6 @@
     "socials": {
       "x": "https://x.com/goldskyio",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/via-protocol.jpeg",
-    "name": "Via Protocol",
-    "category": "DeFi",
-    "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
-    "url": "https://router.via.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/via_protocol",
-      "discord": "https://discord.com/invite/viaexchange",
       "telegram": ""
     }
   },
@@ -3055,19 +2704,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/barnbridge.jpeg",
-    "name": "BARNBRIDGE",
-    "category": "DeFi",
-    "description": "BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as interest rate sensitivity and market price volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield and SMART Alpha products, all of which address a specific DeFi risk category.",
-    "url": "https://barnbridge.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "https://discord.gg/barnbridge",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/snapshot.jpeg",
     "name": "Snapshot",
     "category": "Tooling",
@@ -3141,19 +2777,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/fraxfinance",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/yin.jpeg",
-    "name": "YIN",
-    "category": "DeFi",
-    "description": "Yin Finance is a multi-strategy NFT asset management platform allowing users to subscribe to various strategies to achieve effective high-yield and capital efficiency on multiple chains and DEXs. Currently, Yin Finance is deployed on Ethereum, Polygon, BNB, and Arbitrum network, and will be deployed on Solana soon.",
-    "url": "https://yin.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/YinFinance",
       "discord": "",
       "telegram": ""
     }
@@ -3246,19 +2869,6 @@
     "socials": {
       "x": "",
       "discord": "https://discord.gg/silo-finance",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/hegic.jpeg",
-    "name": "Hegic",
-    "category": "DeFi",
-    "description": "Hegic is an on-chain options trading protocol on Ethereum. On Hegic, you can buy an ETH call and put options as an individual holder (buyer) or sell an ETH call and put options as one of the liquidity providers. Trade on-chain options for profits or to hedge your positions. Here is why you won't be able to distinguish Hegic from pure magic: \n✔ Non-custodial 24/7 global options trading \n✔ Verified on-chain settlement of each option contract \n✔ Choose any strike price for ETH Call / Put options contracts \n✔ Exercise at any moment during the period of holding a contract\n✔ Exercising is guaranteed by the liquidity locked on an option contract \n✔ Mobile compatible interfaces for trading on the go using WalletConnect \n✔ Censorship-resistant protocol without a KYC, email or registration required \n✔ Earn yield on ETH or DAI in an automated way as one of the liquidity providers \n✔ Liquidity auto-diversification between all the contracts for the options writers",
-    "url": "https://hegic.co",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/HegicOptions",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -3497,19 +3107,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/rari-capital.png",
-    "name": "Rari Capital",
-    "category": "DeFi",
-    "description": "Rari Capital is working on building a series of products with the goal of increasing market efficiencies within the crypto-sphere. Our first product of Rari Capital is software that can rebalance users' holdings across a series of Rari Capital protocols to deliver the highest yield. Enjoy your decentralized financial service on Rari Capital.",
-    "url": "https://rari.capital/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/RariCapital",
-      "discord": "https://discord.com/invite/T9Yrd7MGSP",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/shell-protocol.jpeg",
     "name": "Shell Protocol",
     "category": "DeFi",
@@ -3640,19 +3237,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/badger-dao.png",
-    "name": "Badger DAO",
-    "category": "DeFi",
-    "description": "Badger Finance is a community DAO, focused on bringing Bitcoin to DeFi. The DAO's debut products are Sett, a yield aggregator, and Digg, a BTC-pegged elastic supply currency.",
-    "url": "https://app.badger.finance",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/BadgerDAO",
-      "discord": "https://discord.com/invite/badgerdao",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/sipher.png",
     "name": "SIPHER",
     "category": "Games",
@@ -3728,19 +3312,6 @@
       "x": "",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/qonstant.png",
-    "name": "Qonstant",
-    "category": "DeFi",
-    "description": "Qonstant is a lending protocol with fixed rates and fixed maturities.",
-    "url": "https://qonstant.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/QonstantApp",
-      "discord": "https://discord.com/invite/JJFn8mc9Jd",
-      "telegram": "https://t.me/+QV2pb1B8ajZlMTU6"
     }
   },
   {
@@ -3988,19 +3559,6 @@
       "x": "https://x.com/ValantisLabs",
       "discord": "",
       "telegram": "https://t.me/+G2yDzLZRyeE4ZWFh"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/arbitrum/threebalance.png",
-    "name": "Threebalance",
-    "category": "DeFi",
-    "description": "Threebalance is a portfolio rebalancing tool, where users can easily swap multiple tokens in one flow effectively changing their exposure. It tracks your crypto portfolio, calculates the exposure in percentages and allows you to trade tokens in one place, without manual switching between pairs or adding contract addresses.",
-    "url": "https://threebalance.co/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ThreebalanceApp",
-      "discord": "http://discord.gg/JJFn8mc9Jd",
-      "telegram": "https://t.me/+QV2pb1B8ajZlMTU6"
     }
   },
   {

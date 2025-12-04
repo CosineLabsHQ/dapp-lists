@@ -221,19 +221,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/robin-protocol.jpeg",
-    "name": "Robin Protocol",
-    "category": "DeFi",
-    "description": "Innovative solution for recovering tokens and claiming airdrops from compromised EVM wallets",
-    "url": "https://robin-protocol.com/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Robin_protocol",
-      "discord": "",
-      "telegram": "https://t.me/Robin_protocol"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/allium.jpeg",
     "name": "Allium",
     "category": "Tooling",
@@ -442,19 +429,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/metaverse-design.png",
-    "name": "metaverse design",
-    "category": "Metaverse",
-    "description": "metaverse design studio",
-    "url": "http://sketchup.highlight.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/metamesseth",
-      "discord": "https://discord.com/channels/857383728409739265/1214399451507064930",
-      "telegram": "https://t.me/farcaster_cn"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/ddocs.png",
     "name": "dDocs",
     "category": "Social",
@@ -490,19 +464,6 @@
     "socials": {
       "x": "https://x.com/noves_fi",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cur8.jpeg",
-    "name": "Cur8",
-    "category": "Marketplace",
-    "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
-    "url": "https://app.cur8.io/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cur8Labs",
-      "discord": "https://discord.gg/T7DSAdvXNR",
       "telegram": ""
     }
   },
@@ -1066,19 +1027,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fortytwo.jpeg",
-    "name": "FortyTwo",
-    "category": "DeFi",
-    "description": "A Frontend for an Interchain World",
-    "url": "https://www.fortytwo.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/FortyTwo_money",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/indexed.jpeg",
     "name": "Indexed",
     "category": "Tooling",
@@ -1140,19 +1088,6 @@
     "socials": {
       "x": "https://x.com/decentxyz",
       "discord": "https://discord.com/invite/WV2jHjpYVQ",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/drawtech.png",
-    "name": "Drawtech",
-    "category": "Games",
-    "description": "Drawtech is the first ever fully onchain mobile game. Draw together on shared canvas. Earn rewards.",
-    "url": "https://www.draw.tech/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -1256,19 +1191,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/superbridgeapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption.",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
       "discord": "",
       "telegram": ""
     }
@@ -1469,19 +1391,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/pocketcast.png",
-    "name": "PocketCast",
-    "category": "NFTs",
-    "description": "Mint your favorite casts from Farcaster as NFTs, powered by Pinata",
-    "url": "https://www.pocketcast.cloud/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/speedtracer.jpeg",
     "name": "Speedtracer",
     "category": "Games",
@@ -1503,19 +1412,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/launcherlabs",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/surreal.jpeg",
-    "name": "Surreal",
-    "category": "Social",
-    "description": "A go-to mobile app for onchain media",
-    "url": "https://surr.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/surrealapp",
       "discord": "",
       "telegram": ""
     }
@@ -1677,19 +1573,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/songtech.png",
-    "name": "SongTech",
-    "category": "Social",
-    "description": "SongTech is a revolutionary platform allowing users to bet on their favorite songs. Anyone can submit a song for a fee of 0.001ETH and holders receive 5% of all buys and sells, another 5% is reserved for the artist themselves.\n",
-    "url": "https://www.song.tech/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/songtech_",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/swatches-by-jvmi.jpeg",
     "name": "Swatches by Jvmi",
     "category": "NFTs",
@@ -1699,32 +1582,6 @@
     "socials": {
       "x": "https://x.com/Jvmi_",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/openfriend.tech.jpeg",
-    "name": "Openfriend.tech",
-    "category": "Social",
-    "description": "OpenFriend.Tech is an auxiliary tool providing multi-dimensional data analytics for Friend.Tech. Besides, users can build their onchain reputation and social network via our onchain profiles.",
-    "url": "https://openfriend.tech",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/openfriendtech",
-      "discord": "https://discord.gg/hEExkzz5",
       "telegram": ""
     }
   },
@@ -2054,19 +1911,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/kreatorland.png",
-    "name": "Kreatorland",
-    "category": "Marketplace",
-    "description": "Discover, trade & launch digital items with the Layer 2 native largest NFT marketplace.",
-    "url": "https://kreatorland.com",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Kreatorland",
-      "discord": "http://discord.gg/nNqSSp6pXx",
-      "telegram": "https://t.me/Kreatorland"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/odos-protocol.jpeg",
     "name": "ODOS protocol",
     "category": "DeFi",
@@ -2141,19 +1985,6 @@
     "socials": {
       "x": "https://x.com/socketdottech",
       "discord": "https://discord.com/invite/zfKJR8yWaH",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/once-upon.jpeg",
-    "name": "Once Upon",
-    "category": "Infrastructure",
-    "description": "Once Upon makes the blockchain human-readable, enabling users to search, discover, and understand what's happening in the world of Web3.",
-    "url": "https://onceupon.gg",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/onceupongg",
-      "discord": "https://discord.com/invite/nJFz7VCw9t",
       "telegram": ""
     }
   },
@@ -2233,19 +2064,6 @@
       "x": "https://x.com/SolidityScan",
       "discord": "https://discord.com/invite/9HhV4hGENw",
       "telegram": "https://t.me/solidityscan"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/fini.jpeg",
-    "name": "Fini",
-    "category": "Social",
-    "description": "The finiliar are digital friends that keep you up to date with the things you care about.",
-    "url": "https://fini.world/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/finidotworld",
-      "discord": "https://discord.com/invite/finidotworld",
-      "telegram": ""
     }
   },
   {
@@ -2596,19 +2414,6 @@
     "socials": {
       "x": "https://x.com/goldskyio",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/via-protocol.jpeg",
-    "name": "Via Protocol",
-    "category": "DeFi",
-    "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
-    "url": "https://router.via.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/via_protocol",
-      "discord": "https://discord.com/invite/viaexchange",
       "telegram": ""
     }
   },
@@ -3107,19 +2912,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/$meelay.jpeg",
-    "name": "$MEELAY",
-    "category": "DeFi",
-    "description": "meelay is here to inflict financial violence on leftards and make argentina great again. if you missed buying the ARSUSD generational bottom, $meelay is for you",
-    "url": "https://www.meelay.vision/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/javormeelay",
-      "discord": "",
-      "telegram": "https://t.me/javormeelay"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/swaye.png",
     "name": "Swaye",
     "category": "DeFi",
@@ -3156,19 +2948,6 @@
       "x": "https://x.com/cvex_xyz",
       "discord": "https://discord.com/invite/DRma7Z9BTz",
       "telegram": "http://t.me/cvex_xyz"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/farstar.jpeg",
-    "name": "Farstar",
-    "category": "Games",
-    "description": "Play to earn in Farstar\nAll user farcaster is a Alien",
-    "url": "https://farstar.fun",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -3250,19 +3029,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/cardex.png",
-    "name": "Cardex",
-    "category": "Marketplace",
-    "description": "Cardex is the first-ever physical collectibles launchpad built for traders. High-end collectibles can be tokenized like RWA Memecoin and users can trade collectible shares on price bonding curve and earn yield.",
-    "url": "https://cardex.space",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/cardex_space",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/stp-network.png",
     "name": "STP Network",
     "category": "Tooling",
@@ -3312,19 +3078,6 @@
       "x": "https://x.com/0xSoulProtocol",
       "discord": "https://discord.com/invite/soulprotocol",
       "telegram": "https://t.me/joinchat/BTMs7OEUxqwxMTRk"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/threebalance.png",
-    "name": "Threebalance",
-    "category": "DeFi",
-    "description": "Threebalance is a portfolio rebalancing tool, where users can easily swap multiple tokens in one flow effectively changing their exposure. It tracks your crypto portfolio, calculates the exposure in percentages and allows you to trade tokens in one place, without manual switching between pairs or adding contract addresses.",
-    "url": "https://threebalance.co/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ThreebalanceApp",
-      "discord": "http://discord.gg/JJFn8mc9Jd",
-      "telegram": "https://t.me/+QV2pb1B8ajZlMTU6"
     }
   },
   {
@@ -3416,19 +3169,6 @@
       "x": "https://x.com/JobaNetwork",
       "discord": "https://discord.com/invite/7F932eRVxg",
       "telegram": "https://t.me/jobanetwork"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/base/bored.jpeg",
-    "name": "BORED",
-    "category": "Games",
-    "description": "$BORED is a place for people who are bored of crypto’s “ordinary” same ol’ b.s. and want to build something extraordinary. \n\nUntil now, your options were to gamble in the memecoin casino, invest in crypto vaporware projects that use intellectual jargon to deceive buyers, or furiously day-trade in zero-sum games - staring at charts, and consuming yourself with stress and anxiety. \n\nWe’re none of that. We are an open community with an open, democratic treasury that quite literally funds boredom. Join the discord to learn how you can contribute.",
-    "url": "https://www.boredtoken.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/boredonbase",
-      "discord": "https://t.co/lWfjChjxHR",
-      "telegram": ""
     }
   },
   {
