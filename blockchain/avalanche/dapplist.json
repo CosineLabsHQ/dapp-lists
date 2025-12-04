@@ -351,19 +351,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/cur8.jpeg",
-    "name": "Cur8",
-    "category": "Marketplace",
-    "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
-    "url": "https://app.cur8.io/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cur8Labs",
-      "discord": "https://discord.gg/T7DSAdvXNR",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/plena---crypto-super-app.jpeg",
     "name": "Plena - Crypto Super App",
     "category": "DeFi",
@@ -676,19 +663,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/fortytwo.jpeg",
-    "name": "FortyTwo",
-    "category": "DeFi",
-    "description": "A Frontend for an Interchain World",
-    "url": "https://www.fortytwo.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/FortyTwo_money",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/ink-finance.png",
     "name": "Ink Finance",
     "category": "DeFi",
@@ -780,32 +754,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/tapioca.png",
-    "name": "Tapioca",
-    "category": "DeFi",
-    "description": "First omnichain money market. borrow, lend, leverage up across 20+ chains.",
-    "url": "https://beta.tapioca.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/tapioca_dao",
-      "discord": "https://discord.com/invite/tapiocadao",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption.",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/onramper.png",
     "name": "Onramper",
     "category": "Others",
@@ -814,19 +762,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/GetOnramper",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/snowdare.png",
-    "name": "Snowdare",
-    "category": "DeFi",
-    "description": "Snowdare is a new technology of independednt communication based on blockchain networks that provides freedom, independance and certainty of safety for everyone. There you can share all your thoughts and creations without censorship and moderation.",
-    "url": "https://snowdare.org",
-    "verified": false,
-    "socials": {
-      "x": "",
       "discord": "",
       "telegram": ""
     }
@@ -855,19 +790,6 @@
       "x": "https://x.com/i_am_hapi_one",
       "discord": "https://discord.com/invite/HdGXqF32Jc",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/cask-protocol.jpeg",
-    "name": "Cask Protocol",
-    "category": "DAO",
-    "description": "Cask is a decentralized non-custodial protocol for automating the flow of money in web3. The Cask base layer implements a job scheduling and queuing system that can handle many types of automated money flows. The foundation is built using Chainlink Keepers with flow-specific contracts operating above.",
-    "url": "https://www.cask.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/caskprotocol",
-      "discord": "https://discord.com/invite/mbmFKr9xeu",
-      "telegram": "https://t.me/CaskProtocol"
     }
   },
   {
@@ -1027,19 +949,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/moonpay.jpeg",
     "name": "MoonPay",
     "category": "Infrastructure",
@@ -1092,19 +1001,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/metamax.png",
-    "name": "MetaMax",
-    "category": "DeFi",
-    "description": "MetaMax is a multichain aggregator of DEX aggregators that sources prices from all aggregators such as Matcha, Paraswap, 1inch, and more. It then offers you the best price available among all of them for desired token swaps.",
-    "url": "https://metamax.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MetaMax_labs",
-      "discord": "https://discord.gg/T2XvCjNCVc",
-      "telegram": "https://t.me/MetaMaxAnnouncement"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/tenderly.png",
     "name": "Tenderly",
     "category": "Infrastructure",
@@ -1115,19 +1011,6 @@
       "x": "https://x.com/TenderlyApp",
       "discord": "https://discord.gg/fBvDJYR",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/cryptodo.jpeg",
-    "name": "CryptoDo",
-    "category": "DeFi",
-    "description": "CryptoDo is a multichain, no-code web3 solution builder for businesses. The project's mission is to simplify the blockchain development process, making it more accessible, cost-effective, and less time-consuming.\nAt the core of CryptoDo is a modular no-code architecture that allows the creation of Web3 applications and smart contracts through a visual builder. This means anyone can design and launch their own Web3 applications in just 5 minutes, even without any coding skills.\nThe project also offers an AI module that gives users the freedom to customize smart contracts like never before, thus making blockchain technology more accessible and adaptable.",
-    "url": "https://www.cryptodo.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/CryptoDo_app",
-      "discord": "https://discord.com/invite/rBK2VhRYJS",
-      "telegram": "https://t.me/CryptoDo_app"
     }
   },
   {
@@ -1191,32 +1074,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/cryptoworthapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/88x.png",
-    "name": "88x",
-    "category": "DeFi",
-    "description": "88x Finance is a cross-chain yield aggregator, using Axelar GMP to enable cross-chain call-data passing and interoperability.\n",
-    "url": "https://www.88x.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/88x_finance",
-      "discord": "",
-      "telegram": "http://t.me/the88x"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/autofarm.png",
-    "name": "autofarm",
-    "category": "DeFi",
-    "description": "The best cross‑chain Yield Aggregator across DeFi. Lowest fee Multi-chain DEX & yield aggregator | Deployed on 19 EVM-compatible chains",
-    "url": "https://autofarm.network/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/autofarmnetwork",
       "discord": "",
       "telegram": ""
     }
@@ -1677,19 +1534,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/via-protocol.jpeg",
-    "name": "Via Protocol",
-    "category": "DeFi",
-    "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
-    "url": "https://router.via.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/via_protocol",
-      "discord": "https://discord.com/invite/viaexchange",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/synapse-bridge.png",
     "name": "Synapse Bridge",
     "category": "DeFi",
@@ -1738,19 +1582,6 @@
     "socials": {
       "x": "https://x.com/NestedFi",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/avalanche/barnbridge.jpeg",
-    "name": "BARNBRIDGE",
-    "category": "DeFi",
-    "description": "BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as interest rate sensitivity and market price volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield and SMART Alpha products, all of which address a specific DeFi risk category.",
-    "url": "https://barnbridge.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "https://discord.gg/barnbridge",
       "telegram": ""
     }
   },

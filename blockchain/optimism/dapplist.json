@@ -494,19 +494,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/cur8.jpeg",
-    "name": "Cur8",
-    "category": "Marketplace",
-    "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
-    "url": "https://app.cur8.io/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cur8Labs",
-      "discord": "https://discord.gg/T7DSAdvXNR",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/kelp-dao.jpeg",
     "name": "Kelp DAO",
     "category": "DeFi",
@@ -542,19 +529,6 @@
     "socials": {
       "x": "https://x.com/ZeroSwapLabs",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/bugbuster.png",
-    "name": "BugBuster",
-    "category": "Tooling",
-    "description": "Bug Buster is a trustless bug bounty platform powered by Cartesi Rollups. Bug bounty programs enable developers to uncover vulnerabilities in their applications by rewarding hackers who identify them. These programs are prevalent in the Web2 space, where they often lack any form of payment guarantee for whitehats, allowing developers to sometimes underpay or refuse payment. Bug Buster operates within a deterministic RISC-V machine that boots Linux and accepts applications in any major programming language. Through a user-friendly web interface, anyone can submit and sponsor applications with ETH to incentivize hackers. All major wallets are supported. Hackers can test their exploits directly in the browser without needing to sign Web3 transactions. When a hacker discovers a valid exploit, they can initiate a transaction to transfer the reward to their account. Bug Buster does not require a specific format for the exploit; it can be in any language suitable for the application, such as Lua for a Lua library or SQL for the SQLite database engine. If no valid exploits are submitted by a specified deadline, sponsors may request a refund. Get ready to use Bug Buster, powered by Cartesi, for a much-needed guarantee of fairness in bug bounty programs!",
-    "url": "https://rolluplab.io/bugless/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/BugBusterApp",
-      "discord": "https://discord.gg/cartesi",
       "telegram": ""
     }
   },
@@ -1079,19 +1053,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/fortytwo.jpeg",
-    "name": "FortyTwo",
-    "category": "DeFi",
-    "description": "A Frontend for an Interchain World",
-    "url": "https://www.fortytwo.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/FortyTwo_money",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/lisa.jpeg",
     "name": "LISA",
     "category": "Marketplace",
@@ -1209,19 +1170,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/onvote.jpeg",
-    "name": "Onvote",
-    "category": "Tooling",
-    "description": "Anonymous, gasless and modular voting for web3. Onvote is not just a voting platform; it's a step towards a flexible, modular, and highly secure decentralized governance. It stands out with its commitment to the highest privacy standards, employing zkSNARKs technology to ensure complete anonymity in voting. This marks a new era in the participation of Web3 communities and DAOs.",
-    "url": "https://www.onvote.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/onvoteapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/safary.png",
     "name": "Safary",
     "category": "Metaverse",
@@ -1244,19 +1192,6 @@
     "socials": {
       "x": "https://x.com/omodotso",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/tapioca.png",
-    "name": "Tapioca",
-    "category": "DeFi",
-    "description": "First omnichain money market. borrow, lend, leverage up across 20+ chains.",
-    "url": "https://beta.tapioca.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/tapioca_dao",
-      "discord": "https://discord.com/invite/tapiocadao",
       "telegram": ""
     }
   },
@@ -1295,19 +1230,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/superbridgeapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption. ",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
       "discord": "",
       "telegram": ""
     }
@@ -1375,19 +1297,6 @@
       "x": "https://x.com/i_am_hapi_one",
       "discord": "https://discord.com/invite/HdGXqF32Jc",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/cask-protocol.jpeg",
-    "name": "Cask Protocol",
-    "category": "DAO",
-    "description": "Cask is a decentralized non-custodial protocol for automating the flow of money in web3. The Cask base layer implements a job scheduling and queuing system that can handle many types of automated money flows. The foundation is built using Chainlink Keepers with flow-specific contracts operating above.",
-    "url": "https://www.cask.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/caskprotocol",
-      "discord": "https://discord.com/invite/mbmFKr9xeu",
-      "telegram": "https://t.me/CaskProtocol"
     }
   },
   {
@@ -1534,19 +1443,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/flink.jpeg",
-    "name": "Flink",
-    "category": "Social",
-    "description": "A Reddit-like interface for Farcaster to see hot & trending conversations. ",
-    "url": "https://flink.fyi/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/show-up-protocol.png",
     "name": "Show Up Protocol",
     "category": "Others",
@@ -1569,19 +1465,6 @@
     "socials": {
       "x": "https://x.com/GALLERY",
       "discord": "https://discord.gg/MREFJFvBTe",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/whool.png",
-    "name": "whool",
-    "category": "NFTs",
-    "description": "affordable onchain custom URL shortener for all with art, security and rewards on top",
-    "url": "https://whool.art",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/whoolprotocol",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -1703,32 +1586,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/lucid.jpeg",
-    "name": "Lucid",
-    "category": "Infrastructure",
-    "description": "Stripe for Crypto - Infrastructure to power Crypto Subscriptions & Recurring Payments seamlessly",
-    "url": "https://lucidconnect.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Lucidconnect",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/moonpay.jpeg",
     "name": "MoonPay",
     "category": "Infrastructure",
@@ -1752,19 +1609,6 @@
       "x": "https://x.com/symbiosis_fi",
       "discord": "https://discord.com/invite/YHgDSJ42eG",
       "telegram": "https://t.me/symbiosis_finance"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/xbanking.png",
-    "name": "XBANKING",
-    "category": "DeFi",
-    "description": "Non-custodial staking platform. Staking: APT, DOT, TON, ATOM, NEAR, SOL, MINA, ZIL, ETH, BNB, KSM, USDT, USDC, SUI, ARB and others.",
-    "url": "https://xbanking.org",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/StrongBuyCrypto",
-      "discord": "https://discord.com/invite/wBVXnbDypV",
-      "telegram": "https://t.me/xbanking"
     }
   },
   {
@@ -1820,19 +1664,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/metamax.png",
-    "name": "MetaMax",
-    "category": "DeFi",
-    "description": "MetaMax is a multichain aggregator of DEX aggregators that sources prices from all aggregators such as Matcha, Paraswap, 1inch, and more. It then offers you the best price available among all of them for desired token swaps.",
-    "url": "https://metamax.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MetaMax_labs",
-      "discord": "https://discord.gg/T2XvCjNCVc",
-      "telegram": "https://t.me/MetaMaxAnnouncement"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/tenderly.png",
     "name": "Tenderly",
     "category": "Infrastructure",
@@ -1869,32 +1700,6 @@
       "x": "https://x.com/hypersubxyz",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/slugs.png",
-    "name": "Slugs",
-    "category": "Tooling",
-    "description": "Slugs is an onchain URL shortener for your online presence, reflinks, bios, casts, NFTs and more. This results in a unique kind of service. One that is open, decentralized, immutable and censorship-resistant. And it will keep running as long as the blockchain runs, resulting in greater permanence gurantees.",
-    "url": "https://s.box/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/cryptodo.jpeg",
-    "name": "CryptoDo",
-    "category": "DeFi",
-    "description": "CryptoDo is a multichain, no-code web3 solution builder for businesses. The project's mission is to simplify the blockchain development process, making it more accessible, cost-effective, and less time-consuming.\nAt the core of CryptoDo is a modular no-code architecture that allows the creation of Web3 applications and smart contracts through a visual builder. This means anyone can design and launch their own Web3 applications in just 5 minutes, even without any coding skills.\nThe project also offers an AI module that gives users the freedom to customize smart contracts like never before, thus making blockchain technology more accessible and adaptable.",
-    "url": "https://www.cryptodo.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/CryptoDo_app",
-      "discord": "https://discord.com/invite/rBK2VhRYJS",
-      "telegram": "https://t.me/CryptoDo_app"
     }
   },
   {
@@ -2025,19 +1830,6 @@
       "x": "",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/rollup-id.png",
-    "name": "Rollup ID",
-    "category": "DeFi",
-    "description": "Simple & Secure Private Auth. Open Source and OIDC compliant digital identity for the private web.",
-    "url": "https://rollup.id",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/rollupid",
-      "discord": "https://discord.gg/rollupid",
-      "telegram": "t.me/rollupid"
     }
   },
   {
@@ -2207,19 +1999,6 @@
       "x": "https://x.com/odosprotocol",
       "discord": "https://discord.com/invite/odos",
       "telegram": "https://t.me/OdosProtocol"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/token-subscription.png",
-    "name": "Token Subscription",
-    "category": "DeFi",
-    "description": "The Token Subscription is a protocol that allows users to set up periodic purchases of a token of their choice. Through the app, community members set up purchase schedules (DCA) in a decentralized and self-custody manner. ",
-    "url": "https://dca.yoki.finance",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/yokifinance",
-      "discord": "",
-      "telegram": "https://t.me/yokifinance"
     }
   },
   {
@@ -2414,32 +2193,6 @@
     "socials": {
       "x": "https://x.com/lifiprotocol",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/swing.jpeg",
-    "name": "Swing",
-    "category": "DeFi",
-    "description": "Swing is a decentralised cross-chain liquidity protocol built for the financial future. We empower developers all over the world to assess crypto assets using blockchain smart contracts, relayers and cross-chain bridges.",
-    "url": "https://swing.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/swing_xyz",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/once-upon.jpeg",
-    "name": "Once Upon",
-    "category": "Infrastructure",
-    "description": "Once Upon makes the blockchain human-readable, enabling users to search, discover, and understand what's happening in the world of Web3.",
-    "url": "https://onceupon.gg",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/onceupongg",
-      "discord": "https://discord.com/invite/nJFz7VCw9t",
       "telegram": ""
     }
   },
@@ -2860,19 +2613,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/via-protocol.jpeg",
-    "name": "Via Protocol",
-    "category": "DeFi",
-    "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
-    "url": "https://router.via.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/via_protocol",
-      "discord": "https://discord.com/invite/viaexchange",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/connext.jpeg",
     "name": "Connext",
     "category": "Tooling",
@@ -2934,19 +2674,6 @@
     "socials": {
       "x": "https://x.com/NestedFi",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/barnbridge.jpeg",
-    "name": "BARNBRIDGE",
-    "category": "DeFi",
-    "description": "BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as interest rate sensitivity and market price volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield and SMART Alpha products, all of which address a specific DeFi risk category.",
-    "url": "https://barnbridge.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "https://discord.gg/barnbridge",
       "telegram": ""
     }
   },
@@ -3650,19 +3377,6 @@
       "x": "https://x.com/zerodev_app",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/optimism/threebalance.png",
-    "name": "Threebalance",
-    "category": "DeFi",
-    "description": "Threebalance is a portfolio rebalancing tool, where users can easily swap multiple tokens in one flow effectively changing their exposure. It tracks your crypto portfolio, calculates the exposure in percentages and allows you to trade tokens in one place, without manual switching between pairs or adding contract addresses. ",
-    "url": "https://threebalance.co/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ThreebalanceApp",
-      "discord": "http://discord.gg/JJFn8mc9Jd",
-      "telegram": "https://t.me/+QV2pb1B8ajZlMTU6"
     }
   },
   {

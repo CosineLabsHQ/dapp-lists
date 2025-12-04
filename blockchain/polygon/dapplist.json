@@ -195,19 +195,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/concise-labs.png",
-    "name": "Concise Labs",
-    "category": "Infrastructure",
-    "description": "First AI-Powered ,Fast & Reliable Data Infra for Blockchains\nApp & API playground: https://t.co/3X8CtVcxJb\nWaitlist Query-Engine: https://t.co/hk4O2O9QYw\nhttps://t.co/TpoyoHiu3r",
-    "url": "http://conciselabs.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ConciseLabs",
-      "discord": "https://discord.gg/mCxUth32",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/rpch.jpeg",
     "name": "RPCh",
     "category": "Others",
@@ -270,32 +257,6 @@
       "x": "https://x.com/IntractCampaign",
       "discord": "https://discord.com/invite/faXj8Yzua6/",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ccc-(3c).jpeg",
-    "name": "CCC (3C)",
-    "category": "DeFi",
-    "description": "Credit Check Chain (CCC) is a blockchain based on the credit system.\nToken Contract Address: 0x0907B8B13970DF091ECc9d4d4c7AE12A599Ad923\n",
-    "url": "https://ccchain.us",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/3C_chain",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/robin-protocol.jpeg",
-    "name": "Robin Protocol",
-    "category": "DeFi",
-    "description": "Innovative solution for recovering tokens and claiming airdrops from compromised EVM wallets",
-    "url": "https://robin-protocol.com/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Robin_protocol",
-      "discord": "",
-      "telegram": "https://t.me/Robin_protocol"
     }
   },
   {
@@ -533,19 +494,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/cur8.jpeg",
-    "name": "Cur8",
-    "category": "Marketplace",
-    "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
-    "url": "https://app.cur8.io/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cur8Labs",
-      "discord": "https://discord.gg/T7DSAdvXNR",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/plena---crypto-super-app.jpeg",
     "name": "Plena - Crypto Super App",
     "category": "DeFi",
@@ -711,19 +659,6 @@
     "socials": {
       "x": "https://x.com/daylight",
       "discord": "https://discord.com/invite/t2WQUJg225",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/marscolony.png",
-    "name": "MarsColony",
-    "category": "DeFi",
-    "description": "Marscolony is a colonization strategy game with elements of DeFI, DAO, and NFT. In Marscolony, players compete to earn the most civilization rank, which is measured by their contribution to evolving technology and terraformation.",
-    "url": "https://marscolony.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/marscolonyio",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -1079,19 +1014,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/fortytwo.jpeg",
-    "name": "FortyTwo",
-    "category": "DeFi",
-    "description": "A Frontend for an Interchain World",
-    "url": "https://www.fortytwo.money/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/FortyTwo_money",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ink-finance.png",
     "name": "Ink Finance",
     "category": "DeFi",
@@ -1170,19 +1092,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/onvote.jpeg",
-    "name": "Onvote",
-    "category": "Tooling",
-    "description": "Anonymous, gasless and modular voting for web3. Onvote is not just a voting platform; it's a step towards a flexible, modular, and highly secure decentralized governance. It stands out with its commitment to the highest privacy standards, employing zkSNARKs technology to ensure complete anonymity in voting. This marks a new era in the participation of Web3 communities and DAOs.",
-    "url": "https://www.onvote.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/onvoteapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/safary.png",
     "name": "Safary",
     "category": "Metaverse",
@@ -1209,19 +1118,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/tapioca.png",
-    "name": "Tapioca",
-    "category": "DeFi",
-    "description": "First omnichain money market. borrow, lend, leverage up across 20+ chains.",
-    "url": "https://beta.tapioca.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/tapioca_dao",
-      "discord": "https://discord.com/invite/tapiocadao",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/cadabra.png",
     "name": "Cadabra",
     "category": "DeFi",
@@ -1232,19 +1128,6 @@
       "x": "https://x.com/CadabraFinance",
       "discord": "https://discord.com/invite/cnmwtzxpgK",
       "telegram": "https://t.me/cadabra_news_en"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption. ",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -1300,32 +1183,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/mintdao.jpeg",
-    "name": "MintDAO",
-    "category": "Marketplace",
-    "description": "The MintDAO is a project released on the Terra network. MintDAO aims to establish a digital NFT minting platform for third-party projects to create NFT collections with utilities to reward the NFT holder. Each NFT collection will have a rewarding system generated in a unique fashion tailored to them, which will benefit each project and community.",
-    "url": "https://mintdao.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/mintdao_io",
-      "discord": "https://discord.gg/BRF2PEetea",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/snowdare.png",
-    "name": "Snowdare",
-    "category": "DeFi",
-    "description": "Snowdare is a new technology of independednt communication based on blockchain networks that provides freedom, independance and certainty of safety for everyone. There you can share all your thoughts and creations without censorship and moderation.",
-    "url": "https://snowdare.org",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/walletbeat.fyi.jpeg",
     "name": "Walletbeat.fyi",
     "category": "Others",
@@ -1362,19 +1219,6 @@
       "x": "https://x.com/i_am_hapi_one",
       "discord": "https://discord.com/invite/HdGXqF32Jc",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/cask-protocol.jpeg",
-    "name": "Cask Protocol",
-    "category": "DAO",
-    "description": "Cask is a decentralized non-custodial protocol for automating the flow of money in web3. The Cask base layer implements a job scheduling and queuing system that can handle many types of automated money flows. The foundation is built using Chainlink Keepers with flow-specific contracts operating above.",
-    "url": "https://www.cask.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/caskprotocol",
-      "discord": "https://discord.com/invite/mbmFKr9xeu",
-      "telegram": "https://t.me/CaskProtocol"
     }
   },
   {
@@ -1518,19 +1362,6 @@
       "x": "https://x.com/Bitquery_io",
       "discord": "https://discord.com/invite/EEBVTQnb2E",
       "telegram": "https://t.me/bloxy_info"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/biflow.jpeg",
-    "name": "Biflow",
-    "category": "DeFi",
-    "description": "Biflow is a Web3 (multichain) staking and mining Protocol. We provide 2 product features for earning PoS coins/tokens: via staking and mining. \n\n💠 Benefits:\n\n- Mobile App (Android, iOS to be released)\n- Bot in Telegram\n- Advanced ASIC Technology for Mining Pools (Spain)\n- Registered in UK\n- Daily Profitability for users with a low balance (Low entry barrier)\n- Convenient Profit Calculator\n- Flexible Referral System (2-level)\n- 24/7 Technical Support\n\n",
-    "url": "https://biflow.cc/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/biflow_cc",
-      "discord": "",
-      "telegram": "https://t.me/+5QOHdNw3uD8yOTBi"
     }
   },
   {
@@ -1716,19 +1547,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/beeblox.xyz.jpeg",
-    "name": "Beeblox.xyz",
-    "category": "DeFi",
-    "description": "Beeblox is an NFT collection on the Polygon network that allows its users to earn passive income in the MATIC cryptocurrency. By minting Bees Collection NFTs, you can earn excellent profits of up to 2.2% daily with ROI of up to 216%. Bees NFTs can be transferred and traded (Opensea, NFTrade, others) like other NFTs with the advantage of obtaining passive income and at any time they can be refund for up to 90% of their cost.",
-    "url": "https://app.beeblox.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/BeebloxNFT",
-      "discord": "https://discord.gg/VVZBZXmx",
-      "telegram": "t.me/beeblox"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/co:create.jpeg",
     "name": "Co:Create",
     "category": "Tooling",
@@ -1768,19 +1586,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/side_xyz.jpeg",
     "name": "Side_xyz",
     "category": "NFTs",
@@ -1804,19 +1609,6 @@
       "x": "https://x.com/symbiosis_fi",
       "discord": "https://discord.com/invite/YHgDSJ42eG",
       "telegram": "https://t.me/symbiosis_finance"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/xbanking.png",
-    "name": "XBANKING",
-    "category": "DeFi",
-    "description": "Non-custodial staking platform. Staking: APT, DOT, TON, ATOM, NEAR, SOL, MINA, ZIL, ETH, BNB, KSM, USDT, USDC, SUI, ARB and others.",
-    "url": "https://xbanking.org",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/StrongBuyCrypto",
-      "discord": "https://discord.com/invite/wBVXnbDypV",
-      "telegram": "https://t.me/xbanking"
     }
   },
   {
@@ -1924,32 +1716,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/senspace.jpeg",
-    "name": "Senspace",
-    "category": "Social",
-    "description": "The onchain character network built from our community",
-    "url": "https://senspace.studio/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/senspace_studio",
-      "discord": "https://discord.com/invite/rbEXVBDyJj",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/metamax.png",
-    "name": "MetaMax",
-    "category": "DeFi",
-    "description": "MetaMax is a multichain aggregator of DEX aggregators that sources prices from all aggregators such as Matcha, Paraswap, 1inch, and more. It then offers you the best price available among all of them for desired token swaps.",
-    "url": "https://metamax.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MetaMax_labs",
-      "discord": "https://discord.gg/T2XvCjNCVc",
-      "telegram": "https://t.me/MetaMaxAnnouncement"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/reveel.jpeg",
     "name": "Reveel",
     "category": "DeFi",
@@ -1973,32 +1739,6 @@
       "x": "https://x.com/RevokeCash",
       "discord": "https://discord.com/invite/revoke-cash",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/synthr.png",
-    "name": "Synthr ",
-    "category": "DeFi",
-    "description": "SYNTHR: DeFi’s first-ever zero-slippage omnichain liquidity layer.\n\n👉 Zero-slippage cross-chain swaps for users.\n👉 Capital-efficient and secure liquidity layer for builders and applications.\n👉 Real multi-chain yield backed by protocol revenue for liquidity providers.\n\n⚙️ Powered by: Axelar, LayerZero, Pyth, and Supra Oracles.",
-    "url": "https://www.synthr.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/synthr_defi",
-      "discord": "https://discord.com/invite/KkUzFPanf5",
-      "telegram": "https://t.me/synthrcommunitychannel"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/cryptodo.jpeg",
-    "name": "CryptoDo",
-    "category": "DeFi",
-    "description": "CryptoDo is a multichain, no-code web3 solution builder for businesses. The project's mission is to simplify the blockchain development process, making it more accessible, cost-effective, and less time-consuming.\nAt the core of CryptoDo is a modular no-code architecture that allows the creation of Web3 applications and smart contracts through a visual builder. This means anyone can design and launch their own Web3 applications in just 5 minutes, even without any coding skills.\nThe project also offers an AI module that gives users the freedom to customize smart contracts like never before, thus making blockchain technology more accessible and adaptable.",
-    "url": "https://www.cryptodo.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/CryptoDo_app",
-      "discord": "https://discord.com/invite/rBK2VhRYJS",
-      "telegram": "https://t.me/CryptoDo_app"
     }
   },
   {
@@ -2132,19 +1872,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/88x.png",
-    "name": "88x",
-    "category": "DeFi",
-    "description": "88x Finance is a cross-chain yield aggregator, using Axelar GMP to enable cross-chain call-data passing and interoperability.\n",
-    "url": "https://www.88x.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/88x_finance",
-      "discord": "",
-      "telegram": "http://t.me/the88x"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/rekt-gang.jpeg",
     "name": "Rekt Gang ",
     "category": "Marketplace",
@@ -2181,19 +1908,6 @@
       "x": "https://x.com/0xZeeve",
       "discord": "",
       "telegram": "https://t.me/ZeeveDeeptech"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/rollup-id.png",
-    "name": "Rollup ID",
-    "category": "DeFi",
-    "description": "Simple & Secure Private Auth. Open Source and OIDC compliant digital identity for the private web.",
-    "url": "https://rollup.id",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/rollupid",
-      "discord": "https://discord.gg/rollupid",
-      "telegram": "t.me/rollupid"
     }
   },
   {
@@ -2288,19 +2002,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/veto.png",
-    "name": "Veto",
-    "category": "Tooling",
-    "description": "Veto is your trusted co-pilot for managing token and NFT allowances. We help to mitigate the potential risks associated with unlimited allowances, thereby enhancing the security of your digital assets.\n\nIn addition, we also offer Veto Insights, a dedicated blog where we share data-driven insights and detailed explorations of various topics related to security and the wider Web3 landscape. Our goal with Veto Insights is to simplify complex Web3 concepts, breaking them down into easy-to-understand, actionable content. \n\nIn essence, Veto is your trusted resource for navigating the Web3 space, committed to making the DeFi ecosystem safer and more accessible by providing essential tools and valuable information.",
-    "url": "http://veto.systems",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/veto_systems",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/prime-protocol.jpeg",
     "name": "Prime Protocol",
     "category": "DeFi",
@@ -2389,19 +2090,6 @@
       "x": "https://x.com/spice_ai",
       "discord": "https://discord.com/invite/kZnTfneP5u",
       "telegram": "https://t.me/spiceai"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/casten.jpeg",
-    "name": "Casten ",
-    "category": "DeFi",
-    "description": "Casten is reDeFining global credit markets by enabling investors of all sizes to earn competitive yields from lending to fast growing Fintechs that enable financial inclusion of Micro, Small and Medium businesses globally\n\nCasten provides exposure to yields from real-world lending. Investments are collateralized off-chain, which makes them distinct from the volatile digital assets",
-    "url": "https://appv2.casten.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/casten_labs",
-      "discord": "https://discord.gg/TDdv4kK6Ry",
-      "telegram": "https://t.me/castenlabs"
     }
   },
   {
@@ -2522,19 +2210,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/token-subscription.png",
-    "name": "Token Subscription",
-    "category": "DeFi",
-    "description": "The Token Subscription is a protocol that allows users to set up periodic purchases of a token of their choice. Through the app, community members set up purchase schedules (DCA) in a decentralized and self-custody manner. ",
-    "url": "https://dca.yoki.finance",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/yokifinance",
-      "discord": "",
-      "telegram": "https://t.me/yokifinance"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/pacoca.jpeg",
     "name": "Pacoca",
     "category": "DeFi",
@@ -2635,19 +2310,6 @@
     "socials": {
       "x": "https://x.com/nftscan_com",
       "discord": "https://discord.com/invite/8c87fS2HHF",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/link3.png",
-    "name": "Link3",
-    "category": "DAO",
-    "description": "Discover Web3 Content, Profiles, and Events! Link3 is a Web3 native social platform built on CyberConnect protocol.",
-    "url": "https://link34.to/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/CyberConnectHQ",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -2756,19 +2418,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/polygonpunks.jpeg",
-    "name": "PolygonPunks",
-    "category": "NFTs",
-    "description": "1st Punk NFTs on Polygon 💜",
-    "url": "https://www.polygonpunks.community/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/polygonpunkscom",
-      "discord": "https://discord.gg/YhHNRJVfqw",
-      "telegram": "https://t.me/PolygonPunks"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/lifi.png",
     "name": "LiFi",
     "category": "Bridges",
@@ -2777,19 +2426,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/lifiprotocol",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/mini-digital.jpeg",
-    "name": "Mini digital",
-    "category": "Tooling",
-    "description": "Mini Digital is your all-in-one solution for Web3 product tracking. Their anonymous tracking by default and no IP address tracking keeps your privacy policy minimal. Collect event data for product analytics from your websites, web apps, mobile, backend services and dApps, including sub-domains! With pre-built event schemas and a lightweight 8kB design, Mini Digital simplifies data collection, empowering your product team to build better Web3 experiences.",
-    "url": "https://mini.digital/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MiniDigitalData",
       "discord": "",
       "telegram": ""
     }
@@ -2829,19 +2465,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/rollaapp",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/pomp.jpeg",
-    "name": "POMP",
-    "category": "Social",
-    "description": "POMP (Proof of Membership Protocol) allows communities to create personalized PFP NFTs for their members to verify affiliation and access perks🎉",
-    "url": "http://gotpomp.com",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/gotpomp",
       "discord": "",
       "telegram": ""
     }
@@ -2925,19 +2548,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/valist.jpeg",
-    "name": "Valist",
-    "category": "Games",
-    "description": "Deploy your Game in 5 Minutes without sacrificing your in-game economy. Build with us!",
-    "url": "https://valist.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Valist_io",
-      "discord": "https://valist.io/discord",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/chaingpt.jpeg",
     "name": "chaingpt",
     "category": "Tooling",
@@ -2990,19 +2600,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/chainvine.png",
-    "name": "ChainVine",
-    "category": "Tooling",
-    "description": "Build your web3 referral program in no code, or leverage our SDK to implement it directly into your product. Tap into our emerging network of web3 affiliates.",
-    "url": "http://www.chainvine.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/chainvine_xyz",
-      "discord": "https://discord.com/invite/qpKgMmnphA",
-      "telegram": "https://t.me/chainvinehq"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/orbiter-finance.jpeg",
     "name": "Orbiter Finance",
     "category": "DeFi",
@@ -3013,19 +2610,6 @@
       "x": "https://x.com/Orbiter_Finance",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ivy.jpeg",
-    "name": "IVY",
-    "category": "Tooling",
-    "description": "Safe and Seamless Web3 Finance-Ops. \n\nStreamline your finance operations with the safest web3 invoicing, payroll, grants, treasury, and accounting solution",
-    "url": "https://ivy.trade/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/IVYbyPolytrade",
-      "discord": "",
-      "telegram": "https://t.me/allmils"
     }
   },
   {
@@ -3091,19 +2675,6 @@
       "x": "https://x.com/SimpleHashInc",
       "discord": "",
       "telegram": "https://t.me/+HO9F964rKsE1YjVh"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/defiedge.jpeg",
-    "name": "DefiEdge",
-    "category": "DeFi",
-    "description": "Asset management protocol built on Uniswap V3.\n",
-    "url": "http://defiedge.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/DefiEdge",
-      "discord": "https://discord.com/invite/fRc6XxhfBq",
-      "telegram": ""
     }
   },
   {
@@ -3211,32 +2782,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/akiyadao.jpeg",
-    "name": "akiyaDAO",
-    "category": "NFTs",
-    "description": "A community-driven project to transform a 250-year-old Japanese cultural artefact into a vibrant omni-maker space for builders, creatives, and dreamers.",
-    "url": "http://akiyadao.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/akiyaDAO",
-      "discord": "https://discord.com/invite/KjC9HYpyM7",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/daolens.jpeg",
-    "name": "DaoLens",
-    "category": "DAO",
-    "description": "DaoLens is a one-stop community management tool for DAOs and communities. It combines everything required to operate a fully functional community into one platform.\nIt provides tools and plugins to integrate within your community so you can focus on engaging in your community rather than managing and organizing it.\nDaoLens aims to provide solutions for communities and DAOs to generate more value, and function like big organizations do today. It helps you manage your DAO on four fronts: discovery, onboarding, contribution, and operation.",
-    "url": "https://bit.ly/dao-lens",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/DaoLens",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/stargate.png",
     "name": "stargate",
     "category": "DeFi",
@@ -3250,45 +2795,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/faye.png",
-    "name": "Faye",
-    "category": "Infrastructure",
-    "description": "Introducing Faye - Your ultimate Web3 support helpdesk! Automate customer queries, troubleshoot transactions & manage tasks effortlessly with our all-in-one admin dashboard. Integrate with Discord bot and website widget for seamless customer interactions.",
-    "url": "https://www.faye.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/faye_xyz_",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/outerbridgeio.jpeg",
-    "name": "OuterbridgeIO",
-    "category": "Tooling",
-    "description": "Open source automation tool for Web3 and Web2 applications.\n\n🤖 https://t.co/eMAXj52Ib5",
-    "url": "http://outerbridge.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Outerbridge_IO",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/wall.jpeg",
-    "name": "WALL",
-    "category": "Infrastructure",
-    "description": "Wall uses on-chain data segmentation to create ideal user persona and runs QUEST for projects to acquire new users. Wall also does social verifications and run social quests which can verify user's activity like follow Twitter, Join Discord etc. as part of the quest.",
-    "url": "https://www.wall.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/walldotapp",
-      "discord": "https://discord.gg/8nn3NYtGWG",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/entangle.jpeg",
     "name": "Entangle ",
     "category": "DeFi",
@@ -3299,19 +2805,6 @@
       "x": "https://x.com/Entanglefi",
       "discord": "https://discord.com/invite/entanglefi",
       "telegram": "https://t.me/entangle_community"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/yield-monitor.jpeg",
-    "name": "Yield Monitor",
-    "category": "DeFi",
-    "description": "Yield Monitor is a custom, scalable indexing and processing infrastructure that distills multi-chain data from hundreds of protocols so DeFi investors and developers can build profitable portfolios and powerful products at scale.\n\nFor developers, Yield Monitor can offer significant amounts of flexible, pre-chewed data without the overhead or frustrations of infrastructure management. \n\nFor investors, a growing suite of (free) tools includes charts and performance metrics like: portfolio tracking, trade ratio charts, liquidity pool price performance, with extended details like token ratios, impermanent loss calculations, order book tracking, and matching pools and farms to spot new opportunities.\n\nBuild a balanced, data-driven DeFi portfolio — for free.",
-    "url": "https://www.yieldmonitor.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/YieldMonitor",
-      "discord": "https://discord.com/invite/Gx7uQUTvqB",
-      "telegram": "https://t.me/yieldmonitor"
     }
   },
   {
@@ -3380,19 +2873,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/canvas.png",
-    "name": "Canvas",
-    "category": "Others",
-    "description": "Web3 Survey-to-Earn.\nAn all-new way to engage with your community\nand make better decisions. Community research made for Web 3.",
-    "url": "https://canvas.lobby.so/forms",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/lobbyso",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/marginswap.jpeg",
     "name": "Marginswap",
     "category": "DeFi",
@@ -3455,19 +2935,6 @@
       "x": "https://x.com/Holdim_",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/quest3.jpeg",
-    "name": "Quest3",
-    "category": "Tooling",
-    "description": "Users can earn tokens and NFT badges by participating in quests and events on Quest3. Quest3 is committed to providing a variety of permissionless on-chain and off-chain quests for GameFi, DAOs, communities and projects, benefiting users continuously, flourishing the propagation ecosystem and realizing Web3 native value delivery.",
-    "url": "http://quest3.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Quest3_xyz",
-      "discord": "https://discord.gg/ATwPJfTRus",
-      "telegram": "https://t.me/QuestN_Announcement"
     }
   },
   {
@@ -3588,19 +3055,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/lensalert.jpeg",
-    "name": "LensAlert",
-    "category": "NFTs",
-    "description": "Notifications for all things Lens 🌿",
-    "url": "https://lensalert.me/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/lensalertme",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/dfx-finance.jpeg",
     "name": "DFX Finance",
     "category": "DeFi",
@@ -3637,32 +3091,6 @@
       "x": "https://x.com/float_shipping",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/mobius-finance.png",
-    "name": "Mobius Finance",
-    "category": "DeFi",
-    "description": "The first multi-collateral decentralized derivatives trading protocol that allows users to create and trade synthetic assets with zero slippage and high transaction speeds.",
-    "url": "https://mobius.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/mobius_finance",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/vtvl.jpeg",
-    "name": "VTVL",
-    "category": "Infrastructure",
-    "description": "VTVL streamlines and automates the token vesting process for founders and organizations. We provide a transparent and easy-to-use interface for stakeholder recipients while giving founders a bird's eye view of their token distribution process. The platform offers advanced features such as organizational accounts, multi-sig support, and multi-token tracking while prioritizing smart contract security with 24/7 support to users. ",
-    "url": "https://vtvl.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/vtvlco",
-      "discord": "",
-      "telegram": "https://t.me/+Ai3bVKuWY7U5YzFh"
     }
   },
   {
@@ -3705,19 +3133,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/nibbl.png",
-    "name": "Nibbl",
-    "category": "NFTs",
-    "description": "Nibbl seeks to revolutionize NFT ownership by providing guaranteed liquidity on tokens and a price based buyout rejection game that uses continuous tokens to achieve token distribution.\nThe original NFT is fractionalized and split into fractions by the original NFT holders. The NFT is split in their wallets, but fractions are made public so that anyone can see them.\nUsers can communicate directly with other buyers of fractional tokens through a token-gated chat feature on the platform. This enables users to engage with a bigger community and move beyond simply holding tokens.",
-    "url": "https://nibbl.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/NibblNFT",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/apostle-arena.png",
     "name": "Apostle Arena",
     "category": "Others",
@@ -3736,19 +3151,6 @@
     "category": "DeFi",
     "description": "Deri Protocol is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain. With Deri Protocol, trades are executed under AMM paradigm and positions are tokenized as NFTs, highly composable with other DeFi projects. Having provided an on-chain mechanism to exchange risk exposures precisely and capital-efficiently, Deri Protocol has minted one of the most important blocks of the DeFi infrastructure. ",
     "url": "https://deri.io/#/index",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/tamago-finance.jpeg",
-    "name": "Tamago Finance",
-    "category": "DeFi",
-    "description": "Tamago Finance is a decentralized synthetic instrument that enables users to gain exposure to any financial market without any friction or intermediary.",
-    "url": "https://www.tamago.finance/",
     "verified": false,
     "socials": {
       "x": "",
@@ -4017,19 +3419,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/shinedao.jpeg",
-    "name": "ShineDAO",
-    "category": "DAO",
-    "description": "Permissionless & non-custodial marketplace for programmable OTC token deals. Deploy smart contracts through no-code UI in seconds.",
-    "url": "https://www.shinedao.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ShineDAO_",
-      "discord": "https://discord.com/invite/QkhbP7bZrj",
-      "telegram": "https://t.me/joinchat/IYb-l9U7iIws5f2c"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/battle-racers.png",
     "name": "Battle Racers",
     "category": "Games",
@@ -4038,19 +3427,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/BattleRacers",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/capx.jpeg",
-    "name": "Capx",
-    "category": "DeFi",
-    "description": "Capx is a non-custodial, decentralized, community-governed infrastructure that allows new and upcoming tokens to achieve decentralization by accelerating token distribution. Capx focuses on facilitating curated distributions for project communities, token streaming for investor distributions, and a liquid secondary market for tokens.\n\n",
-    "url": "https://capx.fi",
-    "verified": false,
-    "socials": {
-      "x": "",
       "discord": "",
       "telegram": ""
     }
@@ -4065,19 +3441,6 @@
     "socials": {
       "x": "https://x.com/SpheronHQ",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/barnbridge.jpeg",
-    "name": "BARNBRIDGE",
-    "category": "DeFi",
-    "description": "BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as interest rate sensitivity and market price volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield and SMART Alpha products, all of which address a specific DeFi risk category.",
-    "url": "https://barnbridge.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "https://discord.gg/barnbridge",
       "telegram": ""
     }
   },
@@ -4186,19 +3549,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/mirror-protocol.png",
-    "name": "Mirror protocol",
-    "category": "Social",
-    "description": "Mirror is a DeFi protocol powered by smart contracts on the Terra network that enables the creation of synthetic assets called Mirrored Assets (mAssets). mAssets mimic the price behavior of real-world assets and give traders anywhere in the world open access to price exposure without the burdens of owning or transacting real assets.",
-    "url": "https://mirrorprotocol.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/mirror_protocol",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/llamaverse.jpeg",
     "name": "Llamaverse",
     "category": "NFTs",
@@ -4290,19 +3640,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/yin.jpeg",
-    "name": "YIN",
-    "category": "DeFi",
-    "description": "Yin Finance is a multi-strategy NFT asset management platform allowing users to subscribe to various strategies to achieve effective high-yield and capital efficiency on multiple chains and DEXs. Currently, Yin Finance is deployed on Ethereum, Polygon, BNB, and Arbitrum network, and will be deployed on Solana soon. ",
-    "url": "https://yin.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/YinFinance",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/qidao.png",
     "name": "QiDao",
     "category": "DeFi",
@@ -4313,19 +3650,6 @@
       "x": "https://x.com/QiDaoProtocol",
       "discord": "https://discord.gg/mQq55j65xJ",
       "telegram": "https://t.me/QiDaoProtocol"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/unipilot.jpeg",
-    "name": "Unipilot",
-    "category": "DeFi",
-    "description": "Unipilot is an automated liquidity manager designed to maximize \"in-range” intervals for capital through the optimization of the re-balancing mechanism of the liquidity pools.",
-    "url": "http://unipilot.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/unipilot_io",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -4342,19 +3666,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/blocktorch.png",
-    "name": "Blocktorch",
-    "category": "Tooling",
-    "description": "Blocktorch offers superior developer experience and covers all observability pillars to view and analyze smart contracts. They provide observability as code, enhanced alerting capabilities via customizable Service Level Objectives, and intuitive search and visualization tools (with elastic search & dashboarding).\nBlocktorch is your go-to choice for observing any smart contract with relevant insights!\nThe amount of decentralized applications, their creators, and users are all expanding, and decentralized architecture is becoming increasingly difficult to comprehend. Reliability is essential if web3 aims to become mass-market ready. Appropriate tools are necessary for engineering teams pushing the boundaries of innovation to create the best products.",
-    "url": "https://www.blocktorch.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/blocktorch",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/polysynth.png",
     "name": "Polysynth",
     "category": "DeFi",
@@ -4365,19 +3676,6 @@
       "x": "https://x.com/0xOlive",
       "discord": "http://discord.gg/Polysynth",
       "telegram": "https://telegram.me/polysynthcom"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/abachi.png",
-    "name": "Abachi",
-    "category": "DeFi",
-    "description": "Abachi is a longer term bet on the convergence of DeFi and the traditional world. We are certain these two worlds can meet in a way where jurisdictional, compliance and regulatory frameworks can be drafted to make the transmission of money and transactions much more efficient. Abachi is also a bet on some of the tech that will allow us to do this, which includes: Olympus Dao, Polygon, Gnosis & Luca PLUS (amongst others).",
-    "url": "https://www.abachi.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/abachi_io",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -4459,19 +3757,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/solace.png",
-    "name": "Solace",
-    "category": "DeFi",
-    "description": "Solace is an insurance protocol that is aiming to invent the future of DeFi Insurance. The protocol helps you to protect your funds against smart-contracts exploits across 180+ protocols with a personalized single policy that dynamically updates as your portfolio changes.",
-    "url": "https://solace.fi/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/launchifi.jpeg",
     "name": "Launchifi",
     "category": "Tooling",
@@ -4481,19 +3766,6 @@
     "socials": {
       "x": "https://x.com/launchifi",
       "discord": "https://discord.gg/3bRpSHFT2d",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/shunya.png",
-    "name": "Shunya",
-    "category": "DeFi",
-    "description": "Shunya is a customized DeFi deep analytics tool for investors that allows you to manage all of your assets' P&L (Profit and Loss Statements), as well as extensive asset analysis, current wallet positions across blockchains/protocols, and much more.",
-    "url": "https://shunya.fi/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/shunya_fi",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -4628,19 +3900,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/citizen-finance.jpeg",
-    "name": "Citizen Finance",
-    "category": "DeFi",
-    "description": "Citizen Finance is a multi-chain ecosystem powering the next generation of NFT-based utilities in gaming, art and decentralized finance. With the aim to accelerate the world's transition into nfts and immersive technologies, Citizen Finance provides cheap and easy-to-use tools to encourage mass adoption.",
-    "url": "https://www.citizenfinance.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/citizen_finance",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/tiny-hero.jpeg",
     "name": "Tiny Hero",
     "category": "Games",
@@ -4693,19 +3952,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/101.jpeg",
-    "name": "101",
-    "category": "Tooling",
-    "description": "The central hub for online courses that issue crypto rewards. Built for decentralized communities.",
-    "url": "https://101.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/pine-protocol.jpeg",
     "name": "Pine Protocol",
     "category": "NFTs",
@@ -4727,19 +3973,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/infura_io",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/gogo.jpeg",
-    "name": "GOGO",
-    "category": "DeFi",
-    "description": "GOGOcoin is constructing the most user-friendly open source DeFi protocol for asset management and savings. They are offering a frictionless user experience powered by awesome invisible tech that includes on-chain automation, simple one-click interactions for DeFi, and advanced security via NFT Smart Vaults. GOGOcoin will be the first DeFi protocol to offer segregated funds on-chain.",
-    "url": "https://www.gogocoin.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/GOGO_coin",
       "discord": "",
       "telegram": ""
     }
@@ -4792,19 +4025,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/MushroomsFinan1",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/picipo.jpeg",
-    "name": "Picipo",
-    "category": "NFTs",
-    "description": "Picipo is a unified NFT management platform & marketplace built on commit-chain by Polygon. The platform goes beyond the online market and crypto society, solving the native problems of the fiat market. Thus, Picipo is a place where it becomes easy for everyone, even not aware of the blockchain technology, to create, buy, sell and leverage NFTs in its user-friendly interface uniting various NFT + DeFi tools and mechanics.",
-    "url": "https://picipo.io/",
-    "verified": false,
-    "socials": {
-      "x": "",
       "discord": "",
       "telegram": ""
     }
@@ -4875,19 +4095,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/lobby.png",
-    "name": "Lobby",
-    "category": "DAO",
-    "description": "The lobby is a community knowledge platform and community sourced wiki for DAOs. It is working across the DAO landscape to make these organisations more efficient by providing them with the right tools. ",
-    "url": "https://www.lobby.so/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/lobbyso",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/leaguedao.png",
     "name": "LeagueDAO",
     "category": "DAO",
@@ -4950,32 +4157,6 @@
       "x": "",
       "discord": "https://discord.gg/vPUXfz2TgZ",
       "telegram": "https://t.me/unrealfinance"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/beluga.png",
-    "name": "Beluga",
-    "category": "DeFi",
-    "description": "Beluga.fi is an innovative yield optimizer on Fantom and Polygon that aims to bring you the best yield farming strategies that give you exposure to the highest yields on your assets.",
-    "url": "https://beluga.fi/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/polylion.png",
-    "name": "PolyLion",
-    "category": "DeFi",
-    "description": "PolyLion is the 1st Next Generation Automatic Liquidity (Safemoon-like mechanism) Acquisition yield farm and AMM decentralized exchange running on Polygon Network with lots of unique and creative features that let you earn and win for a long time.",
-    "url": "https://polylion.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/polylion_ex",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -5114,19 +4295,6 @@
     "category": "DeFi",
     "description": "We believe the future of money is Self Custody. Mimo offers a suite of applications designed to allow users to use their digital assets — such as ETH or BTC — to mint PAR tokens, bridging the existing chasm between the DeFi world and the world of regulated financial institutions.",
     "url": "https://app.mimo.capital/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/riot-racers.png",
-    "name": "Riot Racers",
-    "category": "Games",
-    "description": "Riot Racers is a play-to-earn car racing game where players own parts of the game. Players can earn by playing the game or by simply owning NFTs in the game. All in-game activities are transacted in RIOT Tokens.",
-    "url": "https://riotracers.com/",
     "verified": false,
     "socials": {
       "x": "",
@@ -5434,19 +4602,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/renta.jpeg",
-    "name": "Renta",
-    "category": "Infrastructure",
-    "description": "Renta is an innovative provider of blockchain technologies and web3 infrastructure, creating a global ecosystem for property rental worldwide without commission.",
-    "url": "https://app.rents.network",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/rentanetwork",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/soul-labs.jpeg",
     "name": "Soul Labs",
     "category": "DeFi",
@@ -5564,19 +4719,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/gaming-arcade.png",
-    "name": "Gaming Arcade",
-    "category": "Games",
-    "description": "Gaming Arcade is a Multi-game web 3.0 gaming platform for arcade game enthusiasts built on Polygon chain where players can play by betting crypto in a 1VS1 environment, create custom rooms, make open challenges, and participate in daily Tournaments with up to $10,000 in rewards. \n\nWe also have our Limited collection of NFTs (Alpha Pass) as the game passes which if held allows players to claim the GADE Tokens, unlocking incredible benefits and records, preserving your gameplay data, and access to $10,000 prize tournaments daily. As an Alpha Pass holder, Players will be eligible to receive GADE Tokens from the 25% Token Supply specifically reserved to reward Alpha Pass holders!\n\nApart from a gaming platform we also cater to Web2 gaming companies who want to launch their existing games on blockchain by developing and launching them with our exclusive SDK.\n\nWebsite:\nhttps://gamingarcade.io/",
-    "url": "https://gamingarcade.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/GamingArcade_io",
-      "discord": "https://discord.com/invite/uVQ6ExPyYP",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/pi-squared_official.jpeg",
     "name": "Pi Squared_Official",
     "category": "Infrastructure",
@@ -5587,19 +4729,6 @@
       "x": "https://x.com/Pi_Squared_Pi2",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/colonia-games.png",
-    "name": "Colonia Games",
-    "category": "Games",
-    "description": "Welcome to Colonia Games: Your Gateway to Play, Compete, and Earn Rewards!\n\n🎮 About Colonia: Colonia Games is more than just a gaming platform; it's a gaming revolution! Dive into a world where playing your favorite games isn't just about fun — it's about earning real rewards.\n\n💰 Introducing CGT Token: At the heart of our ecosystem is the Colonia Games Token (CGT). This digital currency is your key to unlocking a universe of gaming possibilities. Play, stake, and engage to earn and trade CGT for exciting rewards.\n\n🌐 Powered by Polygon: We've chosen Polygon as our blockchain network for a faster, more seamless gaming experience. Enjoy the benefits of speed, security, and scalability as you embark on your gaming journey.\n\n🏆 Revolutionary Tournaments: Step into our revamped tournaments, where the thrill of competition meets the chance to win big! No more leaderboards; instead, you'll see the number of players and the high score needed to be among the lucky winners selected at random.\n\n🚀 Your Adventure Awaits: Colonia Games is where every click, every move, and every win counts. As we prepare to launch, gear up for an adventure where playing isn't just a pastime — it's a rewarding experience.\n\nReady to be part of the gaming revolution? Let's play, compete, and earn together at Colonia Games! 🚀🕹️",
-    "url": "https://colonia.games",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/colonia_x",
-      "discord": "",
-      "telegram": "https://t.me/Colonia_x"
     }
   },
   {
@@ -5629,19 +4758,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/chess3.png",
-    "name": "Chess3",
-    "category": "Games",
-    "description": "Chess3 is a brand new online chess platform, built to host casual chess nights with mates through to high-stakes chess tournaments.\n\nJoin our public tournaments with cash or crypto, earn unique prizes from streamers and brands, and stack up your COINs to use in our marketplace or hodl…",
-    "url": "https://chess3.xyz",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/chess3xyz",
-      "discord": "https://discord.gg/AbckFaE7WZ",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/2040world.jpeg",
     "name": "2040WORLD",
     "category": "Games",
@@ -5663,32 +4779,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/CurdNetwork",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/movie-mafia.jpeg",
-    "name": "Movie Mafia",
-    "category": "DeFi",
-    "description": "Movie Mafia aims to challenge the existing norms and revolutionise the film industry by offering a Web3.0-enabled platform, where investors come together to push the boundaries of film production and green-lit content into blockbuster World Wide Projects. Movie Mafia believes in changing the traditional way of investing in the film industry.",
-    "url": "https://www.moviemafia.io/#/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/reachMovieMafia",
-      "discord": "https://discord.com/invite/Mk5nnzkYYr",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ooki.jpeg",
-    "name": "Ooki",
-    "category": "DeFi",
-    "description": "The only DeFi app you’ll ever need to trade, lend & borrow crypto.\n\nhttps://t.co/TANt0ZwEse\nhttps://t.co/q5qvYKtWMX\n\nThis is a community page. No DAO affiliation.",
-    "url": "http://hello.ooki.com",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/OokiTrade",
       "discord": "",
       "telegram": ""
     }
@@ -5837,45 +4927,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/polygon-lottery-games.png",
-    "name": "POLYGON LOTTERY GAMES",
-    "category": "Games",
-    "description": "These are prize-winning games built using smart contracts on the Polygon blockchain. The smart contracts have been verified on the Polygon blockchain, and the source code of these contracts is also publicly available, demonstrating transparency to the players. All players are ensured fairness when participating in the games.",
-    "url": "https://lotterygames.pro/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/muzik2nft.jpeg",
-    "name": "Muzik2NFT",
-    "category": "DeFi",
-    "description": "Muzik2nft is a listen & earn music NFT ecosystem reuniting Artists and Music Lovers Worldwide using #polygon blockchain.",
-    "url": "https://www.muzik2nft.com/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Muzik2nft",
-      "discord": "",
-      "telegram": "https://t.me/muzik2nft"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/menthol-protocol.jpeg",
-    "name": "Menthol Protocol",
-    "category": "DeFi",
-    "description": "Menthol Protocol is the first multi-chain decentralized regeneration protocol that will automatically offset carbon emissions.",
-    "url": "http://www.mentholprotocol.com",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MentholProtocol",
-      "discord": "https://discord.com/invite/a4XuEpjCvA",
-      "telegram": "https://telegram.me/mentholprotocol"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/mirror-world.jpeg",
     "name": "Mirror World",
     "category": "Tooling",
@@ -6019,19 +5070,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/riemanncash.jpeg",
-    "name": "RiemannCash",
-    "category": "Others",
-    "description": "RiemannCash focuses on private TX, with divisible deposits, lower fees and faster withdrawals, which is based on ZK proof, merkle tree and poseidon algorithm.",
-    "url": "https://riemann.cash",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/RiemannCash",
-      "discord": "https://discord.gg/ScCD3TsJJQ",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ftxed.png",
     "name": "FTXed",
     "category": "Games",
@@ -6068,19 +5106,6 @@
       "x": "",
       "discord": "",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/escrowdapp.png",
-    "name": "EscrowDapp",
-    "category": "DeFi",
-    "description": "Crypto Escrow Service - A web3 tool that acts as a neutral third party between buyer and seller. ",
-    "url": "https://www.escrowdapp.com",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/escrowdapp_com",
-      "discord": "",
-      "telegram": "https://t.me/escrowdapp_com"
     }
   },
   {
@@ -6175,19 +5200,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/cango.jpeg",
-    "name": "Cango",
-    "category": "DeFi",
-    "description": "Cango is a one-click super aggregator that finds the best rates for cross-chain swaps.",
-    "url": "https://cango.fi/cross?=eth&fromChain=eth",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/psydao.jpeg",
     "name": "psyDAO",
     "category": "DAO",
@@ -6197,58 +5209,6 @@
     "socials": {
       "x": "https://x.com/psy_dao",
       "discord": "https://discord.gg/hUH4MWxVFx",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/lusio.jpeg",
-    "name": "Lusio",
-    "category": "Games",
-    "description": "Lusio is a one-stop platform that makes it easy to discover trusted web3 games as well as manage in-game assets and achievements. \n",
-    "url": "https://lusio.gg",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/lusio_gg",
-      "discord": "https://discord.gg/F2DHNAHKNk",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/guardian-by-cr2.png",
-    "name": "GUARDIAN by CR2",
-    "category": "DeFi",
-    "description": "A Decentralised Due Diligence enabled platform which connects web3 startups and investors.\n\nOur key features like decentralized peer review, milestone and vesting smart contracts can save investors time, money and increase their overall security.\n\nAll while giving startups unmatched exposure and reach to global web3 investors.",
-    "url": "https://app.guardian.crsquare.finance/register",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cr2_Finance",
-      "discord": "",
-      "telegram": "https://t.me/crsquarefinance"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/onerare.jpeg",
-    "name": "OneRare",
-    "category": "Games",
-    "description": "Onerare is On A Mission To Foodify The Blockchain And Bring The Global Food Industry To Web3 For The First Time.",
-    "url": "https://onerare.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/onerarenft",
-      "discord": "https://discord.gg/KDSzWfYCPU",
-      "telegram": "https://telegram.me/onerarenft"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/xenon-labs.jpeg",
-    "name": "Xenon Labs",
-    "category": "DeFi",
-    "description": "India's First Multichain No-code Web 3.0 platform where you can create Web 3.0 Products in just 3 Steps within 3 Minutes. \n\nXenon Labs is a platform that accelerates the growth of NFT -based startups in a decentralized, safe, and autonomous way. ",
-    "url": "https://xenonlabs.io",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "https://discord.com/invite/JbVKQFZPnQ",
       "telegram": ""
     }
   },
@@ -6266,32 +5226,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/web3-academy-dao.jpeg",
-    "name": "Web3 Academy DAO",
-    "category": "Social",
-    "description": "A tokenized community creating resources, products, and services to better support the wave of entrepreneurs, businesses, and creators moving into Web3.",
-    "url": "https://w3academy.io",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Web3AcademyDAO",
-      "discord": "https://discord.gg/dfQfUBJ3",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/ethalend.png",
-    "name": "Ethalend",
-    "category": "DeFi",
-    "description": "ETHA Lend is a yield optimizer powered by Polygon that abstracts the complexity in DeFi to provide users algorithmically optimal yields. The key makers of the protocol include a discovery algorithm, a hybrid lending market, stable asset eVaults with rewards in volatile assets, automatic rebalancing, and more.",
-    "url": "https://app.ethalend.org/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ethalend",
-      "discord": "https://discord.gg/Njwzw7b7F2",
-      "telegram": "https://telegram.me/ethalendcommunity"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/erabound.jpeg",
     "name": "Erabound",
     "category": "Tooling",
@@ -6301,19 +5235,6 @@
     "socials": {
       "x": "https://x.com/erabound_inc",
       "discord": "https://discord.com/invite/nADkJHDBG3",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/snook.jpeg",
-    "name": "Snook",
-    "category": "Games",
-    "description": "Snook is the first multi-player, snake-like, skill game that rewards talent, speed and persistence. NFT value can finally be measured and based on your skill!",
-    "url": "https://playsnook.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
       "telegram": ""
     }
   },
@@ -6388,19 +5309,6 @@
     "category": "Games",
     "description": "BetSwirl is an online cryptocurrency gaming platform, fully decentralized and anonymous, where everyone will be able to enjoy a fair play, a fun time and an innovative gamer experience.",
     "url": "https://www.betswirl.com/",
-    "verified": false,
-    "socials": {
-      "x": "",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/polygon/beyondfi.jpeg",
-    "name": "Beyondfi ",
-    "category": "DeFi",
-    "description": "Beyondfi is a digital asset platform that offer a diverse range of products and services enabling anyone to access, create and trade unlimited markets without limit.\nBeyondfi’s key mission is undoubtedly clear: unlock the true value of decentralized finance, providing its users with the full spectrum exposure to digital assets.",
-    "url": "https://beyondfi.io/",
     "verified": false,
     "socials": {
       "x": "",

@@ -208,19 +208,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/robin-protocol.jpeg",
-    "name": "Robin Protocol",
-    "category": "DeFi",
-    "description": "Innovative solution for recovering tokens and claiming airdrops from compromised EVM wallets",
-    "url": "https://robin-protocol.com/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Robin_protocol",
-      "discord": "",
-      "telegram": "https://t.me/Robin_protocol"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/hyperlane.jpeg",
     "name": "Hyperlane",
     "category": "Bridges",
@@ -386,32 +373,6 @@
     "socials": {
       "x": "https://x.com/noves_fi",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/magic-square.png",
-    "name": "Magic Square",
-    "category": "Infrastructure",
-    "description": "Magic Square is a unified, integrated, interoperable space for users to discover and experience community-vetted crypto apps, and for crypto app developers to market and monetize their best applications. ",
-    "url": "https://magic.store/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MagicSquareio",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/cur8.jpeg",
-    "name": "Cur8",
-    "category": "Marketplace",
-    "description": "Discover, curate, and dis(play) your digital collections like never before with Cur8.\n\nRevolutionizing the way creators and collectors engage in the digital art space, Cur8 is a multi-chain digital asset display platform that integrates the best aspects of art galleries, social networks, and marketplaces, enabling users to connect their wallets, curate beautiful galleries from their collections, and connect with digital creators around the world.\n\nCur8 For Creators\n\nCur8 provides creators with a digital asset display platform and integrated marketplaces to list and sell existing collections across multiple blockchains or mint new collections and set licensing and usage rights directly on Cur8. Creators have access to high-end display tools to showcase their work in dynamic ways, with a suite of marketing tools to engage their collectors and drive support from new audiences.\n\nCur8 For Collectors\n\nCur8 provides collectors with advanced portfolio management tools to link multiple wallets across blockchains in a single platform and greater flexibility to organize/filter their collections than any other platform available today.\n\nCollectors can create immersive display experiences of their prized pieces and showcase them like never before, and harness tools to discover new art and artists across genres to stay at the forefront of the digital art world.\n\nFeatures\n\n- Multi-chain digital art display platform\n- Metadata rich collections listings\n- Creator and collector profile creation\n- Advanced collection management\n- Art discovery search engine\n- Customizable digital art display tools\n- Minting solutions\n- Digital asset marketplace\n- Creator marketing and engagement tools",
-    "url": "https://app.cur8.io/home",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/Cur8Labs",
-      "discord": "https://discord.gg/T7DSAdvXNR",
       "telegram": ""
     }
   },
@@ -793,19 +754,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/tapioca.png",
-    "name": "Tapioca",
-    "category": "DeFi",
-    "description": "First omnichain money market. borrow, lend, leverage up across 20+ chains.",
-    "url": "https://beta.tapioca.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/tapioca_dao",
-      "discord": "https://discord.com/invite/tapiocadao",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/cadabra.png",
     "name": "Cadabra",
     "category": "DeFi",
@@ -816,19 +764,6 @@
       "x": "https://x.com/CadabraFinance",
       "discord": "https://discord.com/invite/cnmwtzxpgK",
       "telegram": "https://t.me/cadabra_news_en"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/dora.jpeg",
-    "name": "Dora",
-    "category": "Tooling",
-    "description": "At Dora we believe that as applications leverage online & onchain infrastructure, unlocking search will drive understandability — embedding action at the discoverability layer will catalyze mass adoption. ",
-    "url": "https://app.ondora.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ondora_xyz",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -866,32 +801,6 @@
     "verified": false,
     "socials": {
       "x": "https://x.com/ChainSafeth",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/mintdao.jpeg",
-    "name": "MintDAO",
-    "category": "Marketplace",
-    "description": "The MintDAO is a project released on the Terra network. MintDAO aims to establish a digital NFT minting platform for third-party projects to create NFT collections with utilities to reward the NFT holder. Each NFT collection will have a rewarding system generated in a unique fashion tailored to them, which will benefit each project and community.",
-    "url": "https://mintdao.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/mintdao_io",
-      "discord": "https://discord.gg/BRF2PEetea",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/snowdare.png",
-    "name": "Snowdare",
-    "category": "DeFi",
-    "description": "Snowdare is a new technology of independednt communication based on blockchain networks that provides freedom, independance and certainty of safety for everyone. There you can share all your thoughts and creations without censorship and moderation.",
-    "url": "https://snowdare.org",
-    "verified": false,
-    "socials": {
-      "x": "",
       "discord": "",
       "telegram": ""
     }
@@ -1118,19 +1027,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/baked-beans-reloaded.png",
-    "name": "Baked Beans Reloaded",
-    "category": "DeFi",
-    "description": "‘Baked Beans Reloaded’ operates on a simple yet effective mechanism. Users stake BNB into the smart contract and receive beans in return at a predetermined exchange rate. This initial deposit of BNB is locked in the TVL. These beans represent the users stake in the system and generate rewards over time based on the number of beans held and the duration of the stake. Users can compound their rewards by re-baking them back into the contract, increasing their bean holdings at an accelerated rate. Additionally, users can get referral bonuses by inviting friends, family and foe to join Baked Beans Reloaded.",
-    "url": "https://www.bakedbeans.app",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/BB_Reloaded",
-      "discord": "",
-      "telegram": "https://t.me/bakedbeansreloaded"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/tofunft.jpeg",
     "name": "tofuNFT",
     "category": "Marketplace",
@@ -1141,19 +1037,6 @@
       "x": "https://x.com/tofuNFT",
       "discord": "https://discord.gg/3wFUTZmTm7",
       "telegram": "https://t.me/tofuNFT"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/scopescan.jpeg",
-    "name": "Scopescan",
-    "category": "Others",
-    "description": "Scopescan (previously Watchers) is the first product powered by the 0xScope Knowledge Graph. Scopescan is an on-chain data analytics platform that allows the creation of real-time profiles (entities) with meaningful connections.",
-    "url": "https://scopescan.ai",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/0xScopescan",
-      "discord": "https://discord.com/invite/zaFYDgFA7c",
-      "telegram": "https://t.me/scope_official"
     }
   },
   {
@@ -1248,19 +1131,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/metamax.png",
-    "name": "MetaMax",
-    "category": "DeFi",
-    "description": "MetaMax is a multichain aggregator of DEX aggregators that sources prices from all aggregators such as Matcha, Paraswap, 1inch, and more. It then offers you the best price available among all of them for desired token swaps.",
-    "url": "https://metamax.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/MetaMax_labs",
-      "discord": "https://discord.gg/T2XvCjNCVc",
-      "telegram": "https://t.me/MetaMaxAnnouncement"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/reveel.jpeg",
     "name": "Reveel",
     "category": "DeFi",
@@ -1271,32 +1141,6 @@
       "x": "https://x.com/r3vl_xyz",
       "discord": "https://discord.gg/aDnBWQ2rhx",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/synthr.png",
-    "name": "Synthr ",
-    "category": "DeFi",
-    "description": "SYNTHR: DeFi’s first-ever zero-slippage omnichain liquidity layer.\n\n👉 Zero-slippage cross-chain swaps for users.\n👉 Capital-efficient and secure liquidity layer for builders and applications.\n👉 Real multi-chain yield backed by protocol revenue for liquidity providers.\n\n⚙️ Powered by: Axelar, LayerZero, Pyth, and Supra Oracles.",
-    "url": "https://www.synthr.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/synthr_defi",
-      "discord": "https://discord.com/invite/KkUzFPanf5",
-      "telegram": "https://t.me/synthrcommunitychannel"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/cryptodo.jpeg",
-    "name": "CryptoDo",
-    "category": "DeFi",
-    "description": "CryptoDo is a multichain, no-code web3 solution builder for businesses. The project's mission is to simplify the blockchain development process, making it more accessible, cost-effective, and less time-consuming.\nAt the core of CryptoDo is a modular no-code architecture that allows the creation of Web3 applications and smart contracts through a visual builder. This means anyone can design and launch their own Web3 applications in just 5 minutes, even without any coding skills.\nThe project also offers an AI module that gives users the freedom to customize smart contracts like never before, thus making blockchain technology more accessible and adaptable.",
-    "url": "https://www.cryptodo.app/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/CryptoDo_app",
-      "discord": "https://discord.com/invite/rBK2VhRYJS",
-      "telegram": "https://t.me/CryptoDo_app"
     }
   },
   {
@@ -1378,32 +1222,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/88x.png",
-    "name": "88x",
-    "category": "DeFi",
-    "description": "88x Finance is a cross-chain yield aggregator, using Axelar GMP to enable cross-chain call-data passing and interoperability.\n",
-    "url": "https://www.88x.finance/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/88x_finance",
-      "discord": "",
-      "telegram": "http://t.me/the88x"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/knexus.jpeg",
-    "name": "KNexus",
-    "category": "Marketplace",
-    "description": "The KNexus is an AI generation engine and the first Web3 and AI Prompt Marketplace platform with an incentive mechanism based on an internal-only points system. Platforms allow users access to a wide set of useful tools for generative NFT creation or education on how to use this technique. The platform was built for a wide range of users who can discover, learn, create, buy, and sell each other's prompts on KNexus Web3 Marketplace.",
-    "url": "https://knexus.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/KNexus_KNN3",
-      "discord": "https://discord.com/invite/BabRGjHHWm",
-      "telegram": "https://t.me/KNexusXD/1"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/omarket.png",
     "name": "OMarket",
     "category": "Marketplace",
@@ -1414,19 +1232,6 @@
       "x": "https://x.com/OpenLiveNFT",
       "discord": "",
       "telegram": "https://t.me/Channel_OMarketGroup"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/autofarm.png",
-    "name": "autofarm",
-    "category": "DeFi",
-    "description": "The best cross‑chain Yield Aggregator across DeFi. Lowest fee Multi-chain DEX & yield aggregator | Deployed on 19 EVM-compatible chains",
-    "url": "https://autofarm.network/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/autofarmnetwork",
-      "discord": "",
-      "telegram": ""
     }
   },
   {
@@ -1729,19 +1534,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/dyor.png",
-    "name": "DYOR",
-    "category": "DeFi",
-    "description": "Dyor Decentralized Investment App is an investor-friendly decentralized platform built to help you navigate and invest in Web3 and DeFi easily. With its unique Swipe-to-Invest interface, access to real user-generated data, an active community of investors & contributors, and tokenomics that are designed to democratize the evolution of its protocol through community-led governance, Dyor Decentralized Investment App is driven to simplify access to DeFi and Web3 for all.",
-    "url": "https://dyor.exchange",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/dyorexchange",
-      "discord": "",
-      "telegram": "https://t.me/dyorexchange"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/bungee.jpeg",
     "name": "Bungee",
     "category": "Bridges",
@@ -1768,19 +1560,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/faye.png",
-    "name": "Faye",
-    "category": "Infrastructure",
-    "description": "Introducing Faye - Your ultimate Web3 support helpdesk! Automate customer queries, troubleshoot transactions & manage tasks effortlessly with our all-in-one admin dashboard. Integrate with Discord bot and website widget for seamless customer interactions.",
-    "url": "https://www.faye.xyz/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/faye_xyz_",
-      "discord": "",
-      "telegram": ""
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/entangle.jpeg",
     "name": "Entangle ",
     "category": "DeFi",
@@ -1791,19 +1570,6 @@
       "x": "https://x.com/Entanglefi",
       "discord": "https://discord.com/invite/entanglefi",
       "telegram": "https://t.me/entangle_community"
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/yield-monitor.jpeg",
-    "name": "Yield Monitor",
-    "category": "DeFi",
-    "description": "Yield Monitor is a custom, scalable indexing and processing infrastructure that distills multi-chain data from hundreds of protocols so DeFi investors and developers can build profitable portfolios and powerful products at scale.\n\nFor developers, Yield Monitor can offer significant amounts of flexible, pre-chewed data without the overhead or frustrations of infrastructure management. \n\nFor investors, a growing suite of (free) tools includes charts and performance metrics like: portfolio tracking, trade ratio charts, liquidity pool price performance, with extended details like token ratios, impermanent loss calculations, order book tracking, and matching pools and farms to spot new opportunities.\n\nBuild a balanced, data-driven DeFi portfolio — for free.",
-    "url": "https://www.yieldmonitor.io/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/YieldMonitor",
-      "discord": "https://discord.com/invite/Gx7uQUTvqB",
-      "telegram": "https://t.me/yieldmonitor"
     }
   },
   {
@@ -1920,19 +1686,6 @@
     "socials": {
       "x": "https://x.com/goldskyio",
       "discord": "",
-      "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/via-protocol.jpeg",
-    "name": "Via Protocol",
-    "category": "DeFi",
-    "description": "Via Router, aggregating more routers, bridges, and chains than any other cross-chain router to ensure users can find the most efficient   secure routes, with the most liquidity and cheapest fees, to swap their tokens across chains",
-    "url": "https://router.via.exchange/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/via_protocol",
-      "discord": "https://discord.com/invite/viaexchange",
       "telegram": ""
     }
   },
@@ -2210,19 +1963,6 @@
     }
   },
   {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/akito-stakinggame.jpeg",
-    "name": "Akito StakingGame",
-    "category": "DeFi",
-    "description": "Akito Staking Game is a decentralized finance (DeFi) blockchain game where players stake their cryptocurrency and spin for rewards. The game integrates seamlessly with Uniswap, offering a transparent and secure gameplay experience. Early participants can benefit from staking at lower prices, and the game is designed to ensure that players are always in profit. The open smart contract guarantees fairness and trust, making it a unique addition to the blockchain gaming space.",
-    "url": "https://akitotoken.com/earn",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/akitotoken",
-      "discord": "",
-      "telegram": "https://t.me/akitotoken"
-    }
-  },
-  {
     "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/zns-connect.jpeg",
     "name": "ZNS Connect",
     "category": "DeFi",
@@ -2337,19 +2077,6 @@
       "x": "https://x.com/the_dustland",
       "discord": "https://discord.com/invite/9vUUwQ89sd",
       "telegram": ""
-    }
-  },
-  {
-    "logo_uri": "https://dapp-assets.getcosine.app/blockchain/smartchain/threebalance.png",
-    "name": "Threebalance",
-    "category": "DeFi",
-    "description": "Threebalance is a portfolio rebalancing tool, where users can easily swap multiple tokens in one flow effectively changing their exposure. It tracks your crypto portfolio, calculates the exposure in percentages and allows you to trade tokens in one place, without manual switching between pairs or adding contract addresses. ",
-    "url": "https://threebalance.co/",
-    "verified": false,
-    "socials": {
-      "x": "https://x.com/ThreebalanceApp",
-      "discord": "http://discord.gg/JJFn8mc9Jd",
-      "telegram": "https://t.me/+QV2pb1B8ajZlMTU6"
     }
   },
   {
